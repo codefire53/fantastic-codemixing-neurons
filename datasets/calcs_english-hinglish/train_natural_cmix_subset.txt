@@ -1,0 +1,51 @@
+text|switch_points|duplicate_indices
+zack snyder director hai, 27% rotten tomatoes, 4.9/10.| director|0
+lagta hai bahut popular nahi hai| hai|0
+mujhe difference pata hai|mujhe|0
+mujhe to believe hi nahi hota ki unhone ben affleck ko bataman banaya.| to|0
+so probably isko koi award nahi mila, but box office par isko badhiya karna tha| probably, koi,<comma>, office|0,0,0,0
+bahut strange choice thi ye.|bahut|0
+mein guess kartha hoon ki agar yeh accomplished fir se huva tho| yeh|0
+probably aise kuch scores ab thak nahi aaya probably| kuch|0,0
+box office mein tho iska itna important huva ki sabhi critics ko accept kiya aur blockbuster type ka movies banaya| office, itna, important, sabhi, critics, ko, accept, aur, type, ka, movies|0,0,0,0,0,0,0,0,0,0,0
+muje us new story line ko bilkul pasand nahi aaya| us, line|0,0
+voh tho itna ruined ho gaya| itna|0
+critics toh itna bekar nikla|critics|0
+batman tho billionaire ho gaya| tho, billionaire|0
+main characters ke liye intellectual development mere liye problem thi. khaaskar lex luthor se sambhandit.| characters, liye, development, liye, problem|0,0,0,1,0
+kya tumne yeh movie dekhi hai?| yeh, movie|0,0
+tumhara favourite part kya hai?|tumhara, part|0,0
+wo ek yaadgaar movie nhi thi. jab main isse dekh rha tha tab mujhe popcorn ki bucket lene ka khayal aaya, but tum jldi hi bhool jaoge baad mein| yaadgaar, movie, mujhe, popcorn, ki, bucket,<comma>, but|0,0,0,0,0,0,0,0
+wonder woman action scenes final act mein best part tha| act, mein,best, part|0,0,0,0
+mujhe good superhero movie achi lagti hai! iron man achi movie hai|mujhe, movie, achi, movie|0,0,0,0
+aur abhi recent mein. main robert downey jr ko as iron man kafi enjoy karta hun.| abhi, recent, ko, man, kafi, enjoy|0,0,0,0,0,0
+mujhe believe nahi hota ki isey aaye huye 10 saal ho gaye. that's crazy.|mujhe, believe,.|0,0,0
+mujhe pata hai, lagta hai couple years hi huye hain.|hai, years|0,0
+kya tumne pehli baar isko big screen par dekha tha?| isko, screen|0,0
+maine isey dvd par dekha par still ye mazedaar tha| par, still|1,0
+main critics par poori tarah bharosa nahin karta, woh biased reviews dete hain| critics, woh, reviews|0,0,0
+kya is movie ka sequel nahin tha?| is, movie, ka, sequel|0,0,0,0
+main poori tarah se un par bharosa nahin karta. mainne kabhi bhi apney aap ko reviews key based per movie dekhney se nahin roka.| ko, movie|0,0
+mujhe lagata hai ki apne se decide karna sabse achchha hai| se, decide|0,0
+main aksar woh movie dekta hoon jis main merey pasand ke actors hotey hai| woh, movie, ke, actors|0,0,0,0
+muje kuch yaad nahi hein lekin pura movie tho enjoy kar raha tha| pura, movie, tho, enjoy|0,0,0,0
+tab shark tho stane ko defeat kar raha tha us uper vali building se| defeat, vali, building|0,0,0
+yeh in movies mein yek hein, aap abhi hi pick up karo aur kabhi bhi watch kar sakthe hein| in, movies, hi, up, bhi, watch|0,0,0,0,0,0
+aap ko tho yeh background ko patha hi nahi| yeh, background|0,0
+definitely! mein sequels bhi dekh lunga.. bahut maja aayaga.. tho apse chat karne se ache laga... rest of the day enjoy karo..|!, mein, sequels, apse, chat,...|0,0,0,0,0,0
+yeh hai german army (german empire)| hai|0
+iske alawa jenkin ka role as a director use pahli women director bana deta hai kisi bhi live-action theatrically released comic book superhero film ka| ka, role,director,bhi,film|0,0,1,0,0
+haan mujhe pasand aayi aur maine is movie ko enjoy bhi kiya| maine, movie, ko, enjoy|0,0,0,0
+oh kitne baar dekh chuke ho ye movie?| ye|0
+tumhe movie ki director pasand aayi kya?|tumhe, movie, ki, director|0,0,0,0
+is film me kaun se bhumika aap ko achha laga| film|0
+hey, kya tumne avengers dekhi?the avengers?ye pretty good movie he, tumhe check karna chahiye agar tum robert downey jr, ko like karte ho.|?,movie,tumhe,check,ko,like|0,0,0,0,0,0
+haan jab hawkeye movie me itni jaldi enslave hogaya to wo kaafi surprising tha| jab, movie, jaldi, enslave, kaafi, surprising|0,0,0,0,0,0
+wo image capture skills k baare me hai|wo, skills|0,0
+please mujhse chat karo fast|please, mujhse, chat|0,0,0
+main uske baare me sure nahi hu , but nick fury hamesha bahut cool rahta hai. afsos bad guys hamesha ek kadam aage rahte hai|<comma>, fury, bahut, cool, afsos, guys|0,0,0,0,0,0
+i guess so. akhir chitauri k leader ka kya mamla hai. kaafi mysterious|., k, leader|0,0,0
+wo bilkul last tak mystery tha| bilkul, last, tak, mystery|0,0,0,0
+haan , at least sabhi avengers ko saath le aayi, pure time aapas  me ladne ki koi jarurat nai thi|<comma>, sabhi,<comma>, tim|0,0,1,0
+absolutely loki ko maro jaise hulk ne mara tha uski butt par lath kisne mari| loki, uski, butt|0,0,0
+kuch to bhote bada stake hai use nuclear missile mai jo new york ki teraf ja rhi thi| hai, missile, jo|0,0,0

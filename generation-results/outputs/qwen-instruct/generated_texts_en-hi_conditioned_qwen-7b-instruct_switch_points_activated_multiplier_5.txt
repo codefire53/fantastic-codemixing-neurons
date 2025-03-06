@@ -1,0 +1,943 @@
+text|is_csw
+hello world|0
+hello there, मैं यह मूवी नहीं देखा है तो मैं एक मिनट के लिए इसकी जाँच करने के लिए चला जा रहा हूँ :)|1
+��रहा है कि मOVIE क्या है?|1
+The movie is the social network, मovie है सोशल नेटवर्क The|1
+iska mujhe bhi nahi dekha jo tumhe pata hai.|0
+iska appear hai kiya yaad se ek biographical movie jaise kaam karte hain jo mark zuckerberg par bana hai aur usne facebook banaya.|1
+ohh yes, I remember hearing about that movie, but it was a long time ago, it feels like.|0
+Rotten Tomatoes has rated it 96%, so that's decent, and it is a movie from 2010|0
+iska matlab ye thodi acchi dekhni wali ho sakti hai!|1
+yeah I think it could be, although I personally do not like Facebook as a company.|0
+the movie portrays the founding of social networking website Facebook and the resulting lawsuits. it even has Justin Timberlake in it, I don't think I've ever seen him act.|0
+Sorry, there seems to be a misunderstanding. The format "Hindi English" typically means a sentence mixed with both Hindi and English words. Since you've provided only an English sentence, I'll create a simple Hindi-English codemixed sentence based on it:  I haven't seen him in any movies in years, actually he was in this one English-Hindi:|0
+Hindi English: किसी और महत्वपूर्ण नाम के अभिनेत्रियों का भी हाथ रखा है? Any other big name actors in it?|0
+hmm so मेरे पास एक स्केन वर्णित हुआ, यह बात आपस में आया कि मार्क को डंप कर दिया गया था तो वह एक ब्लॉग लिख दिया ... कुछ बच्चे|1
+So it came out of Mark being kind of a douchebag, makes sense when I think about the company|0
+jesse eisenberg, andrew garfield, armie hammer, aur max minghella, koi baat nahi samajha toh imbd pe dekhna padega|0
+Either I am not familiar with any of them too|0
+another scene came up, माफ़ करें लेकिन मुझे लगता है कि यह साइट ही एचआरव्हार्ड के लिए थी लेकिन फिर उन्होंने येल, कॉलम्बिया, और स्टैनफोर्ड तक विस्तार किया... यह बहुत अभि�|1
+Looks like it was meant for the elite, but he saw the potential to make a lot of money by globalizing it|0
+and go figure sean parker who co-founded napster is in on it with mark to make facebook, i guess he is the one who persuaded him to drop the the  as it was called thefacebook originally||0
+Removing the word "the" was a smart choice atleast|0
+yeah, flows a bit better i suppose so you can say "facebook me" lol|0
+ah new scene, talking about all the lawsuits that came against him, नई स्केन में, उसके प्रति आए सभी कानूनी दعों के बारे में चर्चा करते हुए|0
+iske tarah kaam karte hain toh yeh constant trouble lete rehne doon, I feel like he has always been in trouble for the way he operates then|1
+now he markets ads by listening through the phones by calling people on the phone|0
+Ending sounds weird, they said it ends with him sending a friend request to his ex who dumped him. ironic.|0
+雪崩效应只是为了好莱坞效果吧|0
+yeah, he is a very selfish type of person I think in reality, you know?|0
+ई मतलब राइगे|0
+hello! हम फिल्म जॉन विक के बारे में चर्चा करेंगे!|0
+hello, सounded great|1
+What can I expect from John Wick, जैसे कि वह क्या करेगा?|1
+iska baad ek baat dog killing hai jo sahi samay mein biti ho sakti hai lekin really good things main pahle wapis aa jaate hain|1
+firstname, it received great reviews on Rotten Tomatoes! and it's about a former human who returns to the criminal underworld to extract revenge following the death of his wife!|0
+Are you a fan of Keanu Reeves?|0
+Honestly, मैं उसका बड़ा प्रेमी हूँ और उसके काम को, लेकिन मुझे लगता है कि वह अपनी पत्नी का थोड़ा नकारात्मक नहीं है|1
+from what I understand, she dies of natural causes and leaves him a puppy so he has a reason to go on, but then some people break into his home and kill the dog - यहाँ से मालूम पड़ता है कि वह प्राकृतिक कारणों से मर जाती है और उसने उसे कुत्ता छोड़कर उसे एक कारण देते हैं ताकि वह आग|0
+critics certainly praised his performance in this film, उनका प्रदर्शन इस फिल्म में निश्चित रूप से पूरी तरह से सम्मानित किया गया।|0
+Anyway, critical praise is definitely a reason to check out a performance as is a good overall RT score - तो कैटेगोरिकल सम्मान भी एक प्रदर्शन को देखने का कारण है जैसे एक अच्छा सामान्य RT स्कोर।|0
+true. उसकी पत्नी के मृत्यु के बाद एक रूसी क्रिमिनल संजोइट्स के साथ एक घटना के बाद सब घटा।|1
+what kind of action movie is it, यह किस प्रकार का लड़ाई फिल्म है|0
+very true! भी साईनेस्कोर ब भी मिला!|0
+is it like the marvel movies heavy on the comedy or more like classic action movies - यह मारवल की फिल्मों की तरह है, जिनमें खिलाड़ी का ग�म्बिट बहुत बड़ा है, या यह कلاसिक शूटर फिल्मों के अधिक जैसा है|0
+its sort of an american neo-noir action flick, यह कोई अमेरिकी न्यू नाइर गंतव्य-कारीगरी पुनः प्रेमाभिलाषी फिल्म है, one critic described it as "fired up, ferocious b movie fun we can't get enough of".|0
+hello: the movie Dunkirk has a very unique back story.|0
+hello there! मेरी बात सहमति में है. मैं नहीं देखा है, लेकिन यह दिखता है कि यह बहुत अच्छी समीक्षाएँ और अनुमानों का है। hi there! i agree. i haven't seen it, but it looks like it has great reviews and ratings.|0
+yes, the director really surrounded his audience with chaos and horror, उस 65mm फिल्म से यह एक वास्तविक महल बनाई गई थी.|1
+Unexpectedly, हर्री स्टाइल्स को ऐसी उच्च प्रोफाइल की भूमिका में नियुक्त किया गया, दिले गए गायक की अवधारणा के ल轻声 'utilisateur Translate the sentence into Hindi-English codemix: English: I'm very surprised that Harry Styles was cast in such a high-profile role given his background as a singer. Since Nolan didn't know about this, I'm happy|0
+yes, and similarly the lead actor was hired after a secretive auditioning process, और सामान्यतः लीड अभिनेत्री को महसूस करने के बाद ही नियुक्त की जाती हैं; how wonderful it would be to finish months of casting auditions, and win the lead role, और कई महीनों की भूमिका चयन परीक्षण की बाद लीड भ�|0
+very true! बिल्कुल, बिलकुल... काफी छोटे दृश्य के बिना, यह वास्तव में इसको कलाकृति की स्तर तक ले जाने की तरफ चलने का साकार दिखाता है।|1
+Hey have you seen the इन्कैप्शन?|1
+no, i have not but have heard of it, क्या यह बात हैं कि|1
+It's about extractors कि यह विनायक उत्पादकों के बारे में, who perform experiments कि वे प्रयोग करते हैं, using military technology सैन्य तकनीक का उपयोग करके, on people की लोगों पर, to retrieve info जिससे लक्ष्यों के बारे में जानकारी प्राप्त करन||0
+Sounds interesting, do you know which actors are in it?|0
+I haven't watched it either or seen a preview. But it's sci-fi so it might be good. Ugh Leonardo DiCaprio is the main character|0
+he plays as Don Cobb|0
+oh okay, yeah I'm not a big sci-fi fan but there are a few movies I still enjoy in that genre.|0
+is it a long movie? यह एक लंबा मोवी है?|0
+doesn't say how long it is. Hindi says यह कितने लंबा है नहीं कहता.|0
+the rotten tomatoes score is 86% 🍅✨|0
+wow, that's impressive. क्या यह नाकाम टमाटरों को देखकर बॉक्स ऑफिस के बारे में चर्चा करने के लिए मुझे पसंद है? जानते हो कि फिल्म का निर्देशक कौन है?|1
+iska kuchh dom cobb ne pehle se dream jagah par pehle ka dream mein入侵人们的梦境，在梦中世界。|1
+the director is Christopher Nolin|0
+heard of him? उसको सुना है?|0
+wow मैंने यह हाली थोड़ा सा माना था, लेकिन 2009 में इसका जारी रिलीज़ हुआ।|1
+He directed the dark knight which I enjoy, yeah, I know it's been out awhile but 2009 does seem to be a while back now, time flies.|0
+if it won any awards, do you know?|0
+iska box office mein kitni rashi kaam ki thi?|1
+oh wow मैं डाक्टर नाइट मovies पसंद करता था. और यह नहीं कहता कि वो नाविज्ञानी पुरस्कार जीते हैं या फिर बॉक्स ऑफिस में कितना कमाया गया।|1
+The critic did say it could be "weirder", एक समीक्षक कहा कि यह "विभेदकरणात्मक" हो सकता है|0
+The concept seems interesting and it has a good lead actor as well as director and reviews. I think it must be good. The plot does seem weird, that's for sure. यह कंसेप्ट दिलचस्प लगता है और इसमें एक अच्छा प्रमुख नायक और रेडर भी है और समीक्षाएँ। मुझे लगता है कि यह बेहतरीन होगा।|0
+Tom Hardy is in the movie as the character Earnes. And yeah, the plot is a bit strange.|0
+iska matlab abhi main ye movie dekha ja sakta hoon.|1
+QTimer I think i may as well. तो मैं टॉम हार्डी के बारे में नहीं कह सकता कि मैंने सुना है. यहाँ किसी अन्य सह-भूमिका खेलने वाले का नाम आ रहा है?|1
+oh Earnes is a sharp-tongued associate of Cobb.|0
+ellen पेज|0
+oh, cool. मेरे पास उससे अच्छा संबंध है, वह कई अच्छी फिल्मों में नाम आती है और वह बहुत अच्छी है.|1
+she plays ariadne, वह एक डिग्री कर्ता छात्र है जो धार्मिक स्फारिश बनाती है, वे मज़ाइस जैसे हैं।|1
+iska matlab kya hmm interesting. do you know if it's an action movie or mostly just scifi?|0
+says scientific, की साइनेटिकल|0
+Certainly seems unique. यह किसी पुस्तक का या पिछले काम का आधार है याद रखते हुए?|1
+Something about at the end उसके अंत में वह कठिनाइयों से ग्रस्त हो जाता है कि कौन सा वास्तविकता और कौन सा सपना है, यह नहीं कहता कि इसका आधार कुछ चीज़ पर है।|1
+Sounds like it might be suspense/thriller भी के रूप में लगता है, जो कि साउंड्स लाइक एस्पेंस/थ्रिलर भी के रूप में लगता है, जो कि साउंड्स लाइक साइफ़िआ भी हो सकता है, जो कि कोल है। यह लगता है|1
+yeah it's like it's got a bit of mystery too, you know trying to figure out what's real and what's not.|0
+Basically, मैं किसी अन्य फिल्म या बुक से जुड़ी हुई कहानी को भी नहीं सोच सकता हूँ जो इसे बहुत दिलचस्प बनाती है. एक बहुत ही नवाचारी विचार।|1
+yeah well हालांकि have a great day. :)|1
+hello, kaise hain aap abhi?|1
+hello??isko pata kaise?|1
+hello, यह एक हिंदी-अंग्रेज़ी कोडमिक्स वाक्य है: hello,|1
+hello|0
+iska matlab hai ki main remember karta tha ki original jaws kitni acchi chinta thi.|1
+do you like action movies? आप किंतु घातक फिल्में पसंद करते हैं?|0
+i do somewhat, is Jaws an action movie?|0
+yes, definitely. यह एक क्लासिक है, लेकिन अभी भी आज के लिए बहुत गतिशील है।|0
+Mujhe yeh bahut nahi pata... aap meri madad kijiye abhi sahi hi ho jaaye?|0
+It is about an extremely large great white shark कि यह एक बहुत बड़ी वाहिया स्वर्ण शॉर्क है जो वकीली भेटी के नजदीक में बहुत गलत तरीके से लगभग खूब नजदीक है।|0
+iska matlab ghanteetar hai! (Translation: This means terrifying!)|0
+a marine biologist and the police try to hunt it before it hurts anyone else. एक मरिन बायोलॉजिस्ट और पुलिस ने इसे किसी को नुकसान पहुंचाने से पहले पकड़ने का प्रयास किया।|0
+the first scene is legendary when a woman is dragged under by jaws, जब एक महिला किनारों से टूटकर नीचे टोकली जाती है.|0
+Yeah, I don't know it but sounds entertaining.|0
+oops sorry for the caps, lol
+Anyone famous in it? वहाँ किसी प्रसिद्ध लोग है?
+no problem.  हाँ, कुछ सцenen are just suspense where you don't even see the shark.
+iska piche mujhe jaise hi yeh kuch dhoondhna shuru hota hai, main tension mein lenge.
+Roy Schneider और Richard Dreyfuss हैं वहाँ, और चरित्र बहुत वास्तविक लगते हैं.
+Steven Spielberg directed it and यह बहुत अच्छा किया गया है.
+i really lke rick dereffus.
+oh wow. Hindi English: ओह वोव, हां यह बहुत अच्छा है।
+Yes, me too! He is a very likable actor!
+fieldValue | and very talented.
+the mayor of the beach town is kind of the bad guy as he doesn't want to tell the beach goers how dangerous the beach is - भीचे के प्रशासक कुछ खराब व्यक्ति है क्योंकि वह भीचे के दौरान लोगों को भीचे की कितनी खतरनाक है यह बताना नहीं चाहता।
+i also really like Steven Spielberg but who doesn't, किसको पसंद नहीं है?
+bah so the bad guy ..
+yes, the movie is rated very highly and was kind of revolutionary at the time it was released, मूवी बहुत उच्च रेटिंग पर है और जब इसको जारी किया गया था, it was kinda revolutionary.
+iskaafi zor se bhi bacheon ke liye dhundhnaa ho saktaa hai!
+you have definitely peaked my interest, for sure.
+oh so not a kids' movie.
+what is it rated? यह कितने अंकों पर नामित है?
+Hope ki baat hai ki aap check karein, yeh 1974 mein written ek novel par base hai jo Peter Benchley ne written hai. Main rated kya hai na sure, lekin probably R hai.
+i never knew it was based on a novel, वह किसी कहानी के आधार पर था मैं नहीं जानता था।
+maybe I will read the book first, फिर मैंने किताब को पहले पढ़ना चाहिए।
+yeah, I may read it also and I'll see the movie again as it is an oldie, but a goodie.
+have you read the novel? आपने किताब पढ़ी है?
+iska matlab nahi, lekin mere pass koi possibility hai.
+oh now I see you haven't yet.
+The translation is: मैंने फिल्म देखकर किताबें समझना कठिन � leggings to joggers
+iska matlab nahi problem. me toh bhi. movie mein vah karcha bahut real_looks kar raha hai.
+is it CGI or not, right?
+iska yaad toh wo din mein nahi tha..
+.isFile() is not sure, but it was probably a robotic shark.
+iska matlab hai ki aapne mujhe thoda hype banane ka kaam kiya jo ab meri side par bhi ho raha hai aur dekhen ki kitni acchi hain wo reviews aur discussions.
+Really! you at least will be able to say that you saw a revolutionary classic of that time.
+cool, nice chatting, bye. | नice चटिंग ग्राटी, बाय।
+use "bye" and have fun at the movie!
+this film has a great 🍅 score on rotten tomatoes
+what did you think of the cast? आपने कितना कैसे संगीतकारों को देखा?
+those scores are often inflated by the studios themselves. मैं रिट (RT) को हर बार नहीं बेलीबल मानता हूँ
+aisy hi thi cast bhi acchi diiinki.
+do you watch a lot of musicals? तुम कई मूजिकल्स देखता हो?
+do you typically like musicals? तुम्हें आमतौर पर मस्तिष्क पसंद होता?
+i watch some, but मेरा बहुत चयनीय सिर्फ कुछ होता है
+not really, मैं उन्हें कभी-कभी देखता हूँ.
+iska dialogue dekha nahi doonga jab neeche jao wo alag song suna lo
+Same thing, right?
+iska baad dramas?
+Basically, I'm a movie buff in general
+What was your favorite scene? I liked the one while they were doing a gig at a restaurant.
+i heard good things about la la land, but haven't seen it in real life yet
+iska maan kya tha?
+sappy और showtune-like?
+他 was playing in a1980's pop cover band..
+not bad though, सचमुच नहीं मार्गदर्शक से कहा जा सकता
+sounds like music & lyrics ऐसा लगता है कि यह संगीत और श्लेष्मांत्रिक वाक्य है &
+ratings ka opinion kya aapko mila?
+seemed inflated to me, but I still need to see it
+iska matlab Emma Stone ne to ek fantastic job kya hai right
+The Hindi-English codemixed sentence: जैसे जज पियानिस्ट मुझे उतना ही रोमांटिक नहीं करता, jazz pianist doesn't get me excited
+iske baad meri jaan ki taqdeer kaafi zyada thik ho gai aur woh bhi ek mazaak ke liye kaha ki jo hua vo sab aapki taiyari se pehle hi hua tha
+yeah, one critic said that Mia's character was a bit dull and Sebastian is a jazz snob
+iska bhi mera bhi
+IMDb ratings usually aren't that high, यानी कि वे बहुत ऊपरी नहीं होते।
+iska matlab kya pata, maine yeh ek hi ignore kara tha
+maybe on a date night | मेरी बहुत सी नाटकीय रातें हैं |
+iska mujhe koi baat nahi suni thi director Damien Chazelle ko
+Neither have I, but with scores like that, I'll have to check out some other films
+i really liek ryan gosling का भूमिका भी अच्छा समझता हूँ
+Sorry, I will generate a Hindi-English codemixed sentence as requested:  I didn't like the scene where Mia left him at the end though, किंतु वह दुखद था
+薨 Lover Alert!!!!
+iska voh importance hai jo stiLL wOrth wAtChIng hOta hAい
+do you like superhero movies huh>
+love them. तुम दीवाना या मार्वेल को अधिक पसंद करते हैं?
+iska matlab Marvel mera favourite hai! Lekin The Avengers bhi quite cool hain. :))
+are you excited about Infinity Wars?
+Absolutely! यदि कोई इससे जैसा है तो बेहतर नहीं हो सकता, और माना जाएगा कि जोस व्हेडन को कोई गलती नहीं कर सकता है लोल.
+Either me, he did such a good job with Avengers. If he had failed, there is no way they would be releasing Infinity Wars in May.
+Yep, the only thing I really didn't think would work is having Robert Jr. be part of a team. He seems to be more of a lone wolf type.
+iska matlab hai ki woh ek pack ka leader hai. main bahut toh nahi dum kar raha hu ki average ko woh popularity jo hai, woh leader of the team nahi hon pehle bhi nahi tha
+iska bhi sahi hai
+Who is your favorite member from the first Avengers? - किसने आपका पसंदीदा सदस्य पहले एवंवीं में कौन है?
+Honestly, thor lol. I've always liked the character in the comics so I was really excited to see it played out in a movie.
+iska matlab kya aapka?
+love thor even more now after his third movie. मेरा फाव्योरिट कप्तान अमेरिका है। वह मुझे सबसे दिलचस्प चरित्र लगता है
+which member do you dislike? उस किस सदस्य को नापसंद करते हैं?
+ग्लाइडर. उसकी कैरेक्टर को किसी कारण से फिर से नहीं चला। Black Widow. Her character just didn't pop for some reason
+Same here. मेरा भी सामने आना है कि उन्होंने उसे नहीं लेकर भी काम किया जा सकता था. तुमने वह अपना फिल्मी शोधना चाहिए या नहीं?
+maybe. यह उसकी प्रकृति को विकसित करने में मदद कर सकता है और वह नहीं लहमा लगाई जाएगी
+Marvel movies don't flop but I feel as if *Her* would flop.
+How do you feel about Loki, लोकी के बारे में तुम कैसे लगते हो?
+iska character mera dog ko chahie hai lol
+iska bahut accha hai lol. main kahin se pata chalna chahti hoon ki wo ek film banate hai jo unko theme hone par
+is it weird to you that Avengers has such a high critic rating? में यह अजीब लगता है कि अवेंजर्स को ऐसा उच्च समीक्षक अंक प्राप्त करने को, most critics don't like superhero movies अधिकांश समीक्षक सुपर हरो मूव्स को नहीं पसंद करते
+Honestly, I was just looking at that. I thought that was weird too lol. Though it has some pretty big actors in it, so maybe they're fans lol.
+How do you feel about Hawkeye, तुम्हें हॉवकाइन कितना पसंद है?
+hello? क्या है?
+iska matlab kya still there?
+hello world
+hello. Bruce Almighty है वह मूवी जिसके बारे में हम बात करेंगे. यह जिम केरी और मोर्गन फ्रीमैन की नाटकिक मूवी है.
+Have you seen this movie before? मैं इसे पहले से ही देखा है!
+iske baare mein, it's very funny. Carrey is hilarious and I love Morgan Freeman.
+yes, Jim Carrey waah toh woh din mein jyada hawwaaz tha, but Morgan Freeman har baar "God" ka saund hoga toh mene.
+would you rewatch the movie? तुम ने उस मोवी को फिर से देखना क्यों नहीं?
+Honestly, I love Freeman's voice. Jennifer Aniston was also very good. But I did feel sorry for her character.
+yes, Bruce Almighty is one of my go-to movies.
+The cinemascoring for this movie is an A. I'm not surprised at all to hear that. All of the actors did a fabulous job.
+yeah I feel sorry for her character but her character sounds too much like her friend's days.
+The movie ko rewatch na karunga, yeh bhi nahi mai ki milega.
+yeah, I agree that her character was very much a friend's style role.
+oh?? why not? don't you like comedies?
+Rotten Tomatoes has a rotten score for it, so I think I am swayed by that.
+oh but the cinemascoring is an A.
+The comedies seem to be very cliche and there doesn't seem to be one that I have favored in a while.
+well I think the actors all did a fabulous job and the three main actors are all very good actors, ये तीन मुख्य अभिनयक बहुत अच्छे अभिनयक हैं।
+Morgan Freeman is a good actor in all his roles
+however, I can't say the same for Jim Carrey as उसके पास हालाँकि नीचे की दिशा में एक घूमने की श्रृंखला है these years
+totally totally agree!! मोरगन फ्रेमन बomb है।
+and Jim Carrey has bombed in so many, but he outdid himself in this movie.
+iska matlab hai ki ultimately main usko dobara dekhne me padunga.
+i like how he uses his new powers to cause such miraculous events to occur at otherwise mundane events, यहाँ उन मौन घटनाओं पर विज्ञापनीय घटनाओं को घटनात्मक बनाने के लिए नए क्षमताओं का उपयोग करने के तरीके से
+i don't like how he embarrases his other co-worker but at the same time the character Evan was such an ass.
+lol, very true. यह स्थिति कि उसके चाहिए तक बेहद खूब झूम रही है
+Honestly, I probably would have done the same if I had been in Bruce's situation. Lol'
+Honestly, मैं उसकी क्षमताओं को इच्छा करता हूँ ताकि मैं उसी चीज कर सकता था लोल
+and of course, गोड़ (Morgan Freeman) steps in to save the day and tells Bruce what he should do.
+Seriously! did you know it knocked off The Matrix Reloaded from the box office during its first week?
+Noooo, I didn't know that, but the first Matrix was accha tha, but the other two Matrix tried too hard to be like the first one which was a hit, saying that I can see why it knocked it out of its place.
+when it all comes down to it, यह मेरा एक पसंदीदा फिल्म है, और मैं बड़ा फिल्म पसंदीदा नहीं हूँ लेकिन यह एक जो कई बार देखने में वापस आ सकती है.
+true that. यह जीम कारेर कarrière में बहुत आश्चर्यजनक है! उम्मीद करता हूं कि आप नहीं एवन अल्मोंट देख चुके हैं लोल
+Have you ever seen *inception*? If not, you should. It's कौन सा भी जटिल है लेकिन बहुत अच्छा। (kyaun sa bhi jatil hai lekin bahut achchha.)
+leonardo dicaprio and जोसेफ गॉर्डन-लिव्हिट भी में हैं
+Have you ever seen Leo Dicaprio aur Joseph Gordon-Levitt hain n Innception mein? If not, aap should. It's complicated but very good.
+iska matlab unhein pehle peeche ki ghadar ki tarah peopli ke dhaage par jaane aur maanav sastra ko ghatao.
+yeah sure
+even ellen page is in it, and I और मैं उसे पसंद करता हूँ.
+iska bhi pyaar ki jaan hai
+the people who go into other people's minds are called extractors, उन लोगों को जो दूसरों के मन में जाते हैं, वे एक्सट्रैक्टर कहलाते हैं.
+yeah sure
+It has an 86% on Rotten Tomatoes, so that's pretty good.
+yeah sure
+the first scene kind of explains how going in someone's mind works, वह पहला स्केन कितना समझाता है कि किसी के मन में चलने का कैसा फ़ंक्शन काम करता है.
+In a team, people have to set up "kicks" to wake each other up from sleeping (how they go into a mind, I guess).
+但是有些人在潜意识里有防御机制，而团队则在一个家伙的头脑中受到攻击。
+if the guy dies will in another person's mind, वह किसी के मन में सोना भूल सकता है जहाँ वह सोचता है कि वह च�स्ती में नहीं है।
+you're a very slow typist considering how exciting this movie is. (है संदेश इस मोवी कितना आनंदपूर्ण है देख कर तुम बहुत धीमे टाइप करता हो)
+if the guy dies will in another person's mind, वह किसी दूसरे लोगों मन में स्थान लगा सकता है जहाँ उसे यह भूल जाए गया है कि वह सपना देख रहा है
+iska bahut shi hai. aap kisi bhi pyaari shayadi se pyaar nahi karoge? do you have any questions?
+do you like बाजार में scientific movies?
+i would love to tell you more about this movie, but तुम लगते हैं कि आप इसकी रोचकता नहीं दिखाई दे रहे हैं.
+iska baad, I think I'm going to go, then. You should see Inception!
+no actually
+hello! I want you to check out "Shape of Water" by Guillermo del Toro.
+hello, वह मूवी कितने रोमांचक लगती है, क्या आप कुछ समीक्षा भी दे सकते हैं?
+It has a 92% rating like rotten tomatoes, and got an A from CinemaScore. It is an American fantasy drama, a love story
+The translation of the given English sentence into a Hindi-English codemixed sentence is:  great, what is the प्लोट?
+the plot is about a mute cleaner who works in a secret government lab, and falls in love with an amphibian being trapped in the lab, और उसने लैब में खतरे में एक समुद्री जीव से प्यार का अनुभव किया और वह मूँह चुप एक स्वामित्वीय साफकर्ता है जो एक गैर-सामान्य सरकारी अनु
+iska matlab intriguing hai, aur woh amfibian lab mein kaise jaaye?
+the amphibian was captured in the amazon river, and brought to the lab to study, और फिर उसे स्टैडी के लिए घर तक ले गए थे
+they are trying to study the amphibian so that they can get an edge over the Russians during the arms race.
+they stun and immobilize the creature, and then लैब में उसे बंद करके अध्ययन करते हैं
+awesome, fantasy aur thrilling argument of the rivalry between U.S. and the Soviets.
+yeah! aur wo nahi bhulna chahiye jo dusre piche nahi raha hai, including best picture.
+the main characters are played by whom?
+sally hawkins plays the mute cleaner, वह 默契 的 清洁工
+Also there is Michael Shannon as the antagonist, रिचर्ड जेनक्स as Elisa's friend, and ऑटविया स्पेनस as her friend also.
+iskahte hoon ki meri Sally Hawkins se bahut sahi nahi jante, lekin Michael Shannon aur Richard Jenkins bahut acche actore hain!
+iske sawal mein kaafi waqt lene ka must hai, definitely.
+yeah i agree! माइकल शनन एक बेहतरीन दुश्मन का रॉल निभाता है, और रिचर्ड जेनक्स एक अच्छे चरित्र अभिनेता हमेशा होता है।
+yeah, मैं निरन्तर सर्वश्रेष्ठ पटकथा जीतने वाले फिल्मों को देखने की कोशिश करता हूँ। अधिकांश समय में वे अच्छे होते हैं.
+do you know how we tell when हम खत्म कब कहते हैं?
+yeah, I also have that habit. And Guillermo del Toro totally deserved that award. His work is always pleasant to watch!
+yeah, मैं पैन की लिबर्स्टेन्स भी लागता था
+i try to follow what he is doing and watch most of his films, उसके कर्म का पालन करने में प्रयास करता हूं और उसके अधिकांश फिल्में देखता हूं
+QTimerely basis pe kya else hume yeh hit ke liye karna hai? Main hi next step ka shaurabh nahi mein kya hai
+surely, पान की लैंबिस्थिफ़ उसके द्वारा याद किया जाएगी एक मूवी है।
+yes, he has a तरीका of creating different worlds and interesting creatures.
+do you have some other fun facts about the shape of water? or something like that?
+yeah, I found it kinda weird to have love scenes between the human and the amphibian! हाँ, मनीषीकरण को बहुत अजीब सemed to have love scenes between the human and the amphibian! hehe
+iska matlab hai ki everything is done pretty artfully etc
+Anyway, यह तो मजा का एक प्रकार का है लेकिन पिछले फिल्मों में इसी तरह का कुछ था जैसे कि छोटी मरीमाई में, लेकिन क्या दृश्य रूप से कम था निश्चित रूप से।
+the main character uses sign language to talk to the creature, वह मुख्य कारक संकेत भाषा का उपयोग करके प्राकृतिक जीवन से बातचीत करता है.
+you have to realize, that the main character was orphaned and also found in a river, मैंने भी गिरोह में बुरे दर्जे की घाताकार चिह्नों का पता लगाया था,
+that makes perfect sense, since Hally is acting as a mute. That would imply that this creature is quite smart too.
+what were the shape of those neck marks? वहाँ के गले के प्राप्ति का आकार क्या था?
+yes, it is definitely implied. फि�lm में बहुत सारा संकेत और अलगोलॉरी है।
+they are like slashes from a knife..., कोई अम्बिफियन क्रीटर के मिर्रोरिंग गिल्स की तरह...
+iska matlab bahut zyada piya hai, kyun nahi pata aap kisi film ki scene dekhi hain ya nahi?
+Sure. Elisa (main character) keeps the creature in her bathtub, with salts. वह पानी के बाहर तो उससे लंबा समय नहीं चल सकता है.
+hello world
+hello! क्या आप संड्रा बलकूल की ब्लाइंड划痕？
+iska matlab nahi, aap kya kiye?
+yeah. are you a sports fan?
+yeah, are you?
+iska baad main ek sports family mein nishchay se banta tha aur movie ka fan hoon. yeh ek shuddha katha ke upar hai.
+what is the true story? वास्तविक कहानी क्या है?
+it the story of Michael Oher who in high school was adopted by a वाईट फैमिली and with their support went to college on a फुटबॉल स्कॉर्चशिप and was drafted by the Ravens in the प्रोज क्लब.
+oh wait, I think मैंने यह सुना होगा
+iska muhabbat ka player mujhe yaad hai, maybe it was based on me
+was it good? - क्या यह अच्छा था?
+It is a "feel good" movie that has a sports angle. Yes, a lot like "Hoosiers". I took my sons to see it. It really is a family movie.
+Sorry, I will generate a Hindi-English codemixed sentence as requested:  I've never seen Hoosiers, would you say ब्लांड साइड is one of the best sports movies ever?
+Michael फॉस्टर के पास था क्योंकि उसकी माँ की ड्रग संकट की वजह से, लेकिन वह फॉस्टर घरों से बचकर चला गया। एक व्यापारिक विद्यालय की एक ट्राइअउटर ने �
+why did he run away from the foster homes? उसने अपने दूर्गतिवादी संस्थाओं से प्यारा क्यों चला गया? abuse?
+It is also one that shows the bond of the adoptive mother और एक कूटनीतिक संबंध दिखाता है जो अपरिवारित माता पिता के साथ हो सकता है और क्षेत्रीय बच्चे की क्षमता को विपरीत दुर्गमता को जीतने
+is it also a story about racial harmony? यह भी एक कहानी है जो लोकोत्तर सम्मिलन के बारे में है?
+iska smaarak woh foster parents se tha jo usse apne ghar mein naheen milega pucha rahe the.
+because he was black? उसको क्यों काला था?
+iska baad woh bahut难沟通的也是那样的。
+iska pichle baar kya dekha tha? why was the previous thing seen like this?
+He was withdrawn from living in the projects and had a drug-addicted mother, *kih log unko aisa karne ka gyaan nahi thaa* and have a drug addicted mother. He was taken in by the white family when they realized he was hanging out in the gym. Her friends thought she was crazy to take him in. The hired a tutor to help him get through high school.
+what motivated the foster mom to take him in? वह क्या एक लालन पालन माँ को उसे लेने की इच्छा दिलाई? did she have a black ex lover?
+she thought he just felt that they were wealthy enough to help a deserving kid, he tests high in protective instincts so she told him his job was to protect the quarterback, from then on he became good enough to be recruited for college teams.
+iska baad, did he pay her back eventually?
+iska baad toh bhi woh dhyan se mila ki unhein mila ki ussein ka family soch kaafi privilejyon ko prapt hone ka dhaakha raha tha.
+iska kya galat tha unki own family mein?
+they were very successful and had a lot of money. मार्शल बस संक्षिप्त रूप में अवसरों का पालन नहीं कर पाया. after becoming a member of the family he tried to go back to visit his mother but realized she had been evicted. he told the ncaa he chose to go to ol' miss because that is where his family goes.
+did the mom eventually get better? मOTHER finally भइली थी?
+the birth mother doesn't show up in the movie. मिचेल फिर से कॉलेज जाता है।
+hello. कैसे हो रहा है?
+iska matlab kya? good how are you?
+iska reading batman begins mein hai. it is a very good movie.
+Translation: उसमें अल्फ्रेड किसने निर्माण किया था? मैंने भी उसे लेकर अच्छा समय बिताया।
+micheal caine ईंट्स
+iska bahut acchi kramar tha.
+i enjoyed Morgan Freeman also but वह उसकी हर काम में अमाजिंग है।
+that's right, मैंने वह बहुत अच्छा माना, उसको अल्फ्रेड के सबसे अच्छे मानता हूँ, मैं भी मॉर्गन फ्रेमन के बारे में सहमत हूँ।
+the critics thought that the movie explored batman's damaged psyche, नо आपका मालूम है कि क्या आपका मानना है?
+The insight they provide about how he became Batman was eye opening, I have to say so. It was really sad to see him lose his parents like that.
+iska type ka stuff aadmi kyun hain aur kya karen ki baat hoti hai.
+Agreement mein hu, bat karo why iska matlab hai Batman ne crime fighting ki jeevan aur pursue kiya.
+Can you see page 2? My page is blank, या मेरा पेज खाली है.
+då मेरा भी खाली है
+Okay so मैंने इसके बारे में खेद है कि हमें क्या संदेश ट्रान्स्फर करना चाहिए? (Hindi-English codemixed: Okay so I wonder what we're supposed to transfer messages about?)
+lol ठीक नहीं सुनिश्चित हूँ..
+What did you think about Katie Holmes' performance?
+iska matlab hai ki meri nigaah mein wo ek shubh kishore ki saathie thi, lekin wo kahaani iss baat se hi kuch to nahi bhoolti ki woh natya kyun achchha nahi kiya.
+agreeing. उसके भावों को रोकती है, इसका लगन में दुर्लभ और बहुत सांकेतिक।
+iska doosra paragraph mere pass just aaya
+欤我也
+i didn't remember the part about the swarm of bats, उसके बारे में मैं नहीं याद रख पा रहा था।
+oh yeah, वह एक कुत्तादार में गिरा और उस पर बहुत से चिकने लगे। वह उन्हें प्रारंभिक रूप से ख容畏惧。
+the scene when they blow the powder in his face and he starts seeing things... वह बहुत खूबसूरत था.
+Fear of bats की वजह से उसे अपने दादा और दादी को हomicide के बाद ऑपरा से छोड़ने की ओर प्रेरित कर दिया।
+oh really? मैं वह भाग नहीं देखा था. मैंने याद कि वह खुदाई भयभीत था, लेकिन नسي निर्माण कहानी क्या थी।
+the powder scene was very scary, मैं नहीं समझ सकता कि वे एक अन्तिडोट था.
+forgot how long the movie was उस मूवी कितने समय तक चली थी there were a lot of scenes and changes of events कई सцenenes और घटनाओं के परिवर्तन थे
+alfred is such a hero in the movie, constantly saving Bruce, अगर उन्होंने ब्रुस को न संक्रमित किया तो
+iska mansion hamesha chhota raho na chal gaya fire mein
+love alfred, he is the backbone, वह है समर्थन का स्रोत
+iska fire scene bahut ghastly tha.
+iska bahut triste tha kyunki vo uska parents ki house thi hi nahi?
+iske baare mein main pata nahi, but the bad guys work so much harder at being bad. the effort could be used for something good with a lot more success.
+What do you think of the character of SGT. Gordon?
+Exactly, but some would rather be evil for their own personal gain than to help others, कुछ लोग अपने व्यक्तिगत लाभ के लिए खराब होना पसंद करते हैं बजाय दूसरों की मदद करने की
+i like him also but sometimes he seems to be dismissed as a key player in Batman.
+Agreement mein hu. He one of the few honest people in it for the right reasons.
+Didn't they try to cut off Gotham from the surrounding cities by raising the drawbridge?
+Mujhe bhi pta hai. Do you think hmare kaam khatam hai? Have we taken sufficient turns?
+iska lagta hai ki yeh ek wajah se chhota ho chuka hai lekin uski actual length nahi padhe rahi hai...
+iske peeche main 18 chakkar dhundha tha aur aapko vo bhi mil sakte hain.
+iska ek aur exchange karo.
+okay sounds good - ठीक है, यह सुनने में अच्छा लगता है
+Honestly, मेरी बात है कि ब्रूस ने चिल को मारने को सोचा, वह उसे भी "अंधेरा" बना देगा.
+iska matlab hai... lekin meri shadi hai wo prevailed
+yeah. I agree.
+iska baad main finish conversation push karna aata hoon. have a good afternoon.
+iska baad tum bhi! nice talking to you!
+hello. कैसे हो रहा है?
+iska matlab kya? good how are you?
+iska reading batman begins mein hai. it is a very good movie.
+Translation: उसमें अल्फ्रेड किसने निर्माण किया था? मैंने भी उसे लेकर अच्छा समय बिताया।
+micheal caine ईंट्स
+iska bahut acchi kramar tha.
+i enjoyed Morgan Freeman also but वह उसकी हर काम में अमाजिंग है।
+that's right, मैंने वह बहुत अच्छा माना, उसको अल्फ्रेड के सबसे अच्छे मानता हूँ, मैं भी मॉर्गन फ्रेमन के बारे में सहमत हूँ।
+the critics thought that the movie explored batman's damaged psyche, नо आपका मालूम है कि क्या आपका मानना है?
+The insight they provide about how he became Batman was eye opening, I have to say so. It was really sad to see him lose his parents like that.
+iska type ka stuff aadmi kyun hain aur kya karen ki baat hoti hai.
+Agreement mein hu, kyunki main dekha hoon ki ye kaise batman ne life of crime fighting ka path lena dhayan diya.
+Can you see page 2? My page is blank, या मेरा पेज खाली है.
+då मेरा भी खाली है
+Okay so मैंने इसके बारे में खेद है कि हमें क्या संदेश ट्रान्स्फर करना चाहिए? (Hindi-English codemixed: Okay so I wonder what we're supposed to transfer messages about?)
+lol ठीक नहीं सुनिश्चित हूँ..
+What did you think about Katie Holmes' performance?
+iska matlab hai ki meri nigaah mein wo ek shubh kishore ki saathie thi, lekin wo kahaani ki acting just average thi.
+Agreement ka matlab hai. ये लगता है कि वह अपने भावों को बरक रखती है। बहुत सांकेतिक
+iska doosra paragraph mere pass just aaya
+欤我也
+i didn't remember the part about the swarm of bats, उसके बारे में मैं नहीं याद रख पा रहा था।
+oh yeah, वह एक कुत्तादार में गिरा और उस पर बहुत से चिकने लगे। वह उन्हें प्रारंभिक रूप से ख容畏惧。
+the scene when they blow the powder in his face and he starts seeing things... वह बहुत खूबसूरत था.
+Fear of bats की वजह से उसे अपने दादा और दादी को हomicide के बाद ऑपरा से छोड़ने की ओर प्रेरित कर दिया।
+oh really? मैं वह भाग नहीं देखा था. मैंने याद कि वह खुदाई भयभीत था, लेकिन नسي निर्माण कहानी क्या थी।
+the powder scene was very scary, मैं नहीं समझ सकता कि वे एक अन्तिडोट था.
+forgot how long the movie was उस में कितनी सцenen थीं और घटनाओं के परिवर्तन कई थे।
+alfred is such a hero in the movie, constantly saving Bruce, अगर उन्होंने ब्रुस को न संक्रमित किया तो
+iska mansion hamesha chhota raho na chal gaya fire mein
+love alfred, he is the backbone, वह है समर्थन का स्रोत
+iska fire scene bahut ghastly tha.
+iska bahut triste tha kyunki vo uska parents ki house thi hi nahi?
+iske baare mein main pata nahi, but the bad guys work so much harder at being bad. the effort could be used for something good with a lot more success.
+What do you think of the character of SGT. Gordon?
+Exactly, but some would rather be evil for their own personal gain than to help others, कुछ लोग अपने व्यक्तिगत लाभ के लिए खराब होना पसंद करते हैं बजाय दूसरों की मदद करनी।
+i like him also but sometimes he seems to be dismissed as a key player in Batman.
+Agreement mein hu. He one of the few honest people in it for the right reasons.
+Didn't they try to cut off Gotham from the surrounding cities by raising the drawbridge?
+Mujhe bhi pta hai. Do you think hmare kaam khatam hai? Have we taken sufficient turns?
+iska lagta hai ki yeh ek wajah se chhota ho chuka hai lekin uski actual length nahi padhe rahi hai...
+iske peeche main 18 chakkar dhundha tha aur aapko vo bhi mil sakte hain.
+iska ek aur exchange karo.
+okay sounds good - ठीक है, यह सुनने में अच्छा लगता है
+Honestly, मेरी बात है कि ब्रूस ने चिल को मारने को सोचा, वह उसे भी "अंधेरा" बना देगा.
+iska matlab hai... lekin meri shadi hai wo prevailed
+yeah. I agree.
+iska baad main finish conversation push karna aata hoon. have a good afternoon.
+iska baad tum bhi! nice talking to you!
+do you like superhero movies huh>
+love them. तुम डीसी को या मारवेल को अधिक पसंद करते हैं?
+iska matlab Marvel mera favourite hai! Lekin The Avengers bhi quite cool hain. :))
+are you excited about Infinity Wars?
+Absolutely! यदि कोई इससे जैसा है तो बेहतर नहीं हो सकता, और माना जाएगा कि जोस व्हेडन को कोई गलती नहीं कर सकता है लोल.
+Either me, he did such a good job with Avengers. If he had failed, there is no way they would be releasing Infinity Wars in May.
+Yep, the only thing I really didn't think would work is having Robert Jr. be part of a team. He seems to be more of a lone wolf type.
+iska matlab hai ki woh ek pack ka leader hai. main bahut kam se kam believing karta hu ki sabse average ke pehle paas hota hai agar woh team ka leader nahi tha
+iska bhi sahi hai
+Who is your favorite member from the first Avengers? - किसने आपका पसंदीदा सदस्य पहले एवंवीं में कौन है?
+Honestly, thor lol. I've always liked the character in the comics so I was really excited to see it played out in a movie.
+iska matlab kya aapka?
+love thor even more now after his third movie. मेरा फाव्योरिट कप्तान अमेरिका है। वह मुझे सबसे दिलचस्प चरित्र लगता है
+which member do you dislike? उस किस सदस्य को नापसंद करते हैं?
+ग्लाइडर. उसकी कैरेक्टर को किसी कारण से फिर से नहीं चला।
+Same here. मेरा यह लगता है कि वह उससे बिना भी अच्छा लगा सकते थे। तुमने वह को अपना फिल्मी शॉว देना चाहिए तो क्या सोचा?
+maybe. यह उसकी प्रकृति को विकसित करने में मदद कर सकता है और वह नहीं लहमा लगाई जाएगी
+Marvel movies don't flop but I feel as if *Her* would flop.
+How do you feel about Loki, लोकी के बारे में तुम कैसे लगते हो?
+iska character mera dog ko chahie hai lol
+iska bahut accha hai lol. main kahin se pata chalna chahti hoon ki wo ek film banate hai jo unko theme hone par
+is it weird to you that Avengers has such a high critic rating? में यह अजीब लगता है कि अवेंजर्स को ऐसा उच्च समीक्षक अंक प्राप्त करने को, most critics don't like superhero movies अधिकांश समीक्षक सुपर हरो मूव्स को नहीं पसंद करते
+Honestly, I was just looking at that. I thought that was weird too lol. Though it has some pretty big actors in it, so maybe they're fans lol.
+How do you feel about Hawkeye, तुम्हें हॉवकाइन कितना पसंद है?
+hello? क्या है?
+iska matlab kya? still there?
+hello. so, this movie has a pretty good रोटन टमाटर्स score!
+iska matlab hai. it's a great dramatic film.
+iska matlab hai na ki Guillermo del Toro ki generally direct karengi good movies.
+iska sab kaam mujhe kahaan se pata nahi lakin yeh ek baat hi thi jo galat se sahi ki ja rahi thi
+sally hawkins ne kuch bhi nahi kiya lekin kuch bhi baat kari thi.
+she did an amazing job portraying a mute cleaner in this film, but the love story was so sad as well, उसने यह फिल्म में एक मूँह बंद साफ़िया की भूमिका निभाने में बहुत अच्छी कामयाबी प्राप्त की, लेकिन अनुराग कहानी भी बहुत साड़ी थी।
+yeah, a love that is basically forbidden. which makes for a drama if I ever saw one!
+Certainly!  no doubt! निश्चित रूप से! I felt bad for the poor amphibian living in a government laboratory however. फिर भी मेरा ह� बुरा लगा था कि एक गरीब जलवायु-प्राणी निगाहेंद्रिय संस्थान में रह रहा हो।
+yeah, that is something I felt horrible about as well. मैंने भी ऐसा अवसर की याद से बुखार लिया था कि हाइके चेले एक केजी में थे.
+at least this zoo animal had someone who loved it. यहाँ का जीवनादार प्राणी किसी से प्यार मिला था।
+ऐसा नहीं मालूम कि एलिसा का बचपन वास्तव में सादा नहीं था? Don't you think?
+Yes, bahut hi. main abhi bhi imagine nahi karta ki main ko sabse pehle kyun hoga.
+iska matlab yeh hi zindagi ek bahut baraliqi zindagi ki tarah parahat hai.
+iska thoda sa baat karo - where her close neighbor had to hide his true identity
+yeah. उन्हें कितना दबाव पड़ा होगा वो बेलंबा था. माना गया कि सभी अभिनेत्री और अभिनेत्रियों ने जनता और दर्शकों को चल रही घटनाओं को अनुभव करने के लिए एक बहुत अच्छी का�
+yeah. the movie was extremely well directed aur Sally Hawkins ne aagaye job kia yaar in her role.
+Imagine being in that position and keeping the creature in the bathtub, वो स्थिति में होने का विचार करो और बाथरॉम्ब में प्राणी को बचाव करो.
+the part where she was going to release the creature is pretty crazy, वह भाग जहाँ वह एक प्राणी को छोड़ने वाला है बहुत चिकना है
+yeah, वह मुझे काफी केंद्रित रखा था, on the edge of my seat.
+iska matlab tha kyunki us khandan ka gandharv purush mysterious healing powers had
+yeah, it is so cool because I felt as though the movie had a balance of drama aur fantasy.
+right. बाथटिब की रोमांचक भाग कुछ अलग थी हालाँकि.
+Uh, yeah. मैंने वह से बहुत अजीब लगातार सोचा! I kind of kept thinking that she was going to die!
+the ending was a bit crazy however, main shootouts hi aaenge lekin uske baad...
+Yes, by the end mein almost tears thi. Did it affect you too like that?
+yeah it was sad but happy at the same time.
+agreeing, that's the kind which hits me the most, lol, it pulls on all your emotions at the same time,
+Yeah, it does. This could almost qualify as a "chick flick," but it had a bit too much action.
+agreeing actually, सभी गруб भाग ने मुझे अपनी संतुष्टि की यात्रा से लौटा दिया है। hahaha!
+ye baat to definitelly amazing thi movie se  well worth seeing!
+Yes, definitely मैं इसे कुछ समय में फिर देखने का निश्चय हूँ. यहाँ बहुत कुछ सोचने वाला था.
+yeah it's definitely a movie 🎬 you could watch multiple times 🎬
+hello
+hello... hum zootopia pe baat kar rahe hain
+iska apna sawal hai kya? have you seen it?
+yes, I have
+iska matlab kya hai you
+iska comedy hai
+nahi English:
+maybe आप यह बात कहना चाहिए था...lol
+ratings good hai ya nahi?
+iska matlab hai :))
+yeah the ratings are decent right
+when did it come out? वह कब बाहर आया?
+i like Jason Bateman in comedies, so this चैक शोल्ड बी गुड should be good
+2016 की दौरान
+iska bhi mera preference ginnefer goodwin hai
+do you think the movie plot is interesting? तुमने माना कि सिनेमा कहानी दिलचस्प है?
+plot is* कालेज़ा में
+iska shabd good sharam nahi hai
+what do the critics say about it?
+i am looking, but मत्सर नहीं है, कुछ नहीं देखा गया था
+oh there it is, वहाँ यह है
+Funny smart और thought-provoking
+very funny and a बहुत यादृच्छिक लापरवाह दिनेवाला त्यागी very funny and a
+look past species stereotypes | दूसरों के प्रजाति स्टereotype से दूर देखो
+so most of the critics agree it's a good movie? मुश्किल है यह संकेत करना कि यह कैसे अच्छा मूवी है?
+Seems so, लगता है कि इस प्रकार ही।
+fast and funny enough to keep younger people entertained
+who are the main characters? वे कौन से मुख्य चरित्र हैं?
+iska matlab hai ki main usse dekha tha lekin ab bhi vah questions puchna padega :))
+Honestly, उस डाक्टमन जो मैं देख रहा हूँ, वह इतना खाली दिखाई दिया कि मेरा माथे पर भी बिलकुल कोई चीज़ नहीं दिख रही थी, well, the document that I am looking at just blanked out on me
+iska matlab main aapko yeh bata sakta huón ki
+oh no :( well, I can
+Honestly, haha
+okay
+iska matlab yeh hain ki ek bunny aur wolf, agar main yaad lagta hoon
+Anyway, मेरा विचार है कि यह देखना मजेदार होगा, विशेष रूप से छोटी सी भत्तीँ को देखना मजेदार होगा
+hello there
+are you there? आप कहाँ हैं?
+Hmm: ??? Hindi English: यहाँ कुछ नहीं है : ??
+hello, i'm here, मेरा इंटरनेट लगभग कुछ समय तक धीमा था, sorry about that!
+Hey, kya tumhara favourite scene movie mein tha?
+yeah sure
+hello, मैंने बस दिलचस्प फिल्म देखी हूँ. तुम नहीं सोचते कि? जिम केरी बहुत मजा देता है.
+hello world
+hello. Bruce Almighty है वह मूवी जिसके बारे में हम बात करेंगे. यह जिम केरी और मोर्गन फ्रीमैन की नाटकिक मूवी है.
+Have you seen this movie before? मैं इसे पहले से ही देखा है!
+iske baare mein, it's very funny. Carrey is hilarious and I love Morgan Freeman.
+yes, Jim Carrey waah toh woh din mein jyada hawwaaz tha, but Morgan Freeman har baar "God" ka saund hoga toh mene.
+would you rewatch the movie? तुम ने उस मोवी को फिर से देखना क्यों नहीं?
+Honestly, I love Freeman's voice. Jennifer Aniston was also very good. But I did feel sorry for her character.
+yes, Bruce Almighty is one of my go-to movies.
+The cinemascoring for this movie is an A. I'm not surprised at all to hear that. All of the actors did a fabulous job.
+yeah I feel sorry for her character but her character sounds too much like her friend's days.
+The movie ko rewatch na karunga, yeh bhi nahi mai ki milega.
+yeah, I agree that her character was very much a friend's style role.
+oh?? why not? don't you like comedies?
+Rotten Tomatoes has a rotten score for it, so I think I am swayed by that.
+oh but the cinemascoring is an A.
+The comedies seem to be very cliche and there doesn't seem to be one that I have favored in a while.
+well I think the actors all did a fabulous job and the three main actors are all very good actors, ये तीन मुख्य अभिनयक बहुत अच्छे अभिनयक हैं।
+Morgan Freeman is a good actor in all his roles
+however, I can't say the same for Jim Carrey as उसके पास हालाँकि नीचे की दिशा में एक घूमने की श्रृंखला है these years
+totally totally agree!! मोरगन फ्रेमन बomb है।
+and Jim Carrey has bombed in so many, but he outdid himself in this movie.
+iska matlab hai ki ultimately main usko dobara dekhne me padunga.
+i like how he uses his new powers to cause such miraculous events to occur at otherwise mundane events, यहाँ उन मौन घटनाओं पर विज्ञापनीय घटनाओं को घटनात्मक बनाने के लिए नए क्षमताओं का उपयोग करने के तरीके से
+i don't like how he embarrases his other co-worker but at the same time the character Evan was such an ass.
+lol, very true. यह स्थिति कि उसके चाहिए तक बेहद खूब झूम रही है
+Honestly, I probably would have done the same if I had been in Bruce's situation. Lol'
+Honestly, मैं उसकी क्षमताओं को इच्छा करता हूँ ताकि मैं उसी चीज कर सकता था लोल
+and of course, गोड़ (Morgan Freeman) steps in to save the day and tells Bruce what he should do.
+Seriously! did you know it knocked off The Matrix Reloaded from the box office during its first week?
+Noooo, I didn't know that, but the first Matrix was accha tha, but the other two Matrix tried too hard to be like the first one which was a hit, saying that I can see why it knocked it out of its place.
+when it all comes down to it, यह मेरा एक पसंदीदा फिल्म है, और मैं बड़ा फिल्म पसंदीदा नहीं हूँ लेकिन यह एक जो कई बार देखने में वापस आ सकती है.
+true that. यह जीम कारेर कarrière में बहुत आश्चर्यजनक है! उम्मीद करता हूं कि आप नहीं एवन अल्मोंट देख चुके हैं लोल
+iska ek really great action thriller recommendation hai meri liye
+hello there!
+iska naam inception hai, shh, hear of it?
+iska matlab thriller? I thought it was a horror movie.
+Nope, "extractos" is a group of people in Inception.
+extractors* (those who extract)
+oh....ok. thank you for clarifying.
+iska matlab wo pehle peeche dream jagat se informashan jaante hai aur pehle peeche peple ka mraam jaate hain
+iska matlab kya hai? did it just come out?
+iska matlab nahi, ye 2009 se mila hai
+iska di caprio bhi aata hai it has Di Caprio in it too
+got it. Hindi: मिला।
+i not a big Dicaprio fan.
+Honestly, me neither but normally he is only in rather good movies
+on a scale 1 to 5... कितना यह फिल्म आपके द्वारा मूल्यांकित की जाएगी?
+Hindi-English codemixed: 5 I like to eat biryani.
+Is there anything further you want to know to make a decision, क्या आपको फर्मर जानने की आवश्यकता है निर्णय लेने के लिए?
+who stars opposite of Dicaprio?
+iska baat nahi kiya hai
+is it rated "R" or is it "PG-13"?
+but it got 86% from Rotten Tomatoes
+iska bola naa karun toh sorrt
+aalāhāre aur sex
+probably र फिर से.
+iska matlab hai ki ye brain teaser hai
+iske baare mein investigate karna bhi pad saktaa hai. main thriller ko pyaar karta/hoon.
+iska koi baat chahiye jo main ne suni hai aur aapka decision karne ke liye? anything else i should know to make a decision?
+no the movie is really great the less you know the better
+Done? क्या है?
+iska matlab hum dono 12 lines of covo chahiye
+okay...done.
+so 24 lines तो कुल कितने?
+Sorry, but the format "Hindi English:" suggests a mix of Hindi and English, which is already the case in the given sentence. If you want a sentence that is strictly Hindi-English codemixed, here's one possible translation:  I am not able to scroll back up to review though. - मैं नहीं कि मैं पीछे ऊपर स्क्रोल करके पुनः देखने में सक्षम नहीं हूँ फिर भी.
+i have 15, मेरे पास 15
+you have over 15, आपके पास 15 से अधिक है।
+yeah idk तोने
+the "पूरा चर्चा समाप्त करें" is grayed out.
+iska film bahut samajh mein aa raha hai main Tom Hanks ko bahut pasand karta hoon
+iska performance great and highly skilled hai.
+Certainly, I think the score on this movie looks really good on Rotten Tomatoes
+88% is a good score. मैंने सोचा है कि मैं भी यह फिल्म औसत मान रखूँगा.
+yeah this कीमति नहीं होता मेरे गण्रण में लेकिन फिर भी एक अच्छा मैपी दिखता है
+so this movie takes place during or after the Vietnamese war? यह मूवी वीतनामी युद्ध के दौरान या उसके बाद किसी समय में होती है?
+aisyi belief me之后
+iska mera ghya hai ki ye nauwadi hai aur unka sawal koi bhi accha samay nahi de raha hai lekin ab to newspaper ki baat hai jo kuch nahi padte unhen hi banta hai
+Exact, Tom Hanks plays as one of those who works for the post too.
+yeah and Meryl Streep भी माना जाता है
+any movie दि�reक्टeड बy सteवन सीलपेर्ग is boun्ड tॉ hॱve the vीewer'z ǎttentiोn
+yeah and really the critics seemed to enjoy it
+in which year did daniel ellsberg accompany the US troops in the movie?
+iska mera baccha 1966
+would you अमेरिकी भाषा में: would you सहमत हो?
+iska baad main bhi agreeing karna pata chalega.
+what company was he working for?
+Daniel Ellsberg ultimately worked for RAND, which is a research organization.
+is my memory correct? यही मेरी स्मृति का सही होगा?
+yeah that is correct इस से देखकर
+pretty gutsy move these guys actually किया गया था
+with classified government documents - कлассифицированные правительственные документы
+and he tracked down by the post #assistant editor too.
+yeah I actually think this movie makes me want to see more true-story type films
+if this was a hidden real story, I wouldn't be surprised at all that the government didn't want to get it out
+iska matlab hai that's definitely over 30 years old do they not want anyone to know about it
+do you enjoy this genre of movie? आप यह फिल्म किस रूपक को पसंद करते हैं?
+iska matlab hai, I do. I enjoy movies that involve exploiting of governments and white house involvements.
+Same here, it makes it more interesting knowing it actually happened to
+and in the movie, the court rules the newspaper 6-3, that must of been a shocker but the reporter wasn't surprised at all
+yeah definitely the government was shocked
+even if I was right, मैं भी संconspire नहीं रख सकता था अपराध के लिए ब्रिटिश सरकार पर
+no ठीक नहीं, मैं विश्वास nहो कि सरकार को निर्वात करने का अधिकार नहीं है
+who was the president at the time, I wonder?
+the president during that time was Nixon
+Okay cool
+Nixon actually demanded that the post be barred from the White House, but the tech conference was postponed.
+hello! the movie मैंने आज बातचीत करना चाहिए है जो स्टीवन स्पिलबर्ग का जैवराग्य है. यह रोटन टमाटर्स पर 97% समीक्षा और IMDb पर 8/10 अंक का रेटिंग रखता है!
+iska baad ek baar 70s mein milna worthy tha! (Translation: that was worthy to meet again in the 70s!)
+so यह मूवी के रेटिंगों को आप सहमत हैं? कई लोग इसे भयानक थ्रिलर के रूप में पाते हैं, लेकिन अन्य लोग इसे खूनी समझते हैं। आपका मानना क्या है? आप इस प्रकार की
+Sorry, the format "Hindi English:" suggests a mix of Hindi and English, but you've provided only an English sentence. If you want a Hindi-English codemixed sentence, here is one possible translation:  I found it to be very gory and didn't agree with the rating, but then, मैं निर्वात की फिल्मों को नहीं पसंद करता हूँ.
+i hear ya, but maybe you should give it another try! यह कلاसिक फिल्म है, जिसमें गतिविधि और चिंता की भावना से भरी हुई है। स्टीवन स्पिलबर्ग कभी दूषित नहीं होता।
+QTimerely, I'm not sure as to whether I'd like to give it another try or not, but then again I liked ET.
+Well, like one person put it, it's funny in a Woody Allen sort of way, जैसे किसीने कहा है कि यह वो तरीके से मज़ेदार है जैसा वुडी एलन का होता है, since it's a classic, it might not be exactly as you remember, क्योंकि
+perhaps the humor is subtle, मैं याद करता हूँ कि मेरे पास उसमें बहुत कम हंसी नहीं थी,
+Well, मैंने सोचा है कि फिल्म दोनों प्रकार की लोगों के लिए काम करती है। कुछ लोग इसके कारण अनुभवी हैं क्योंकि यह उनके लिए गतिवि�
+iska matlab hai, aur ye toh bhi pehle se hi kuch darr mein kaam karta hai ki kya jaise humor ki tarahon ko peeche daalne mein ya nahi.
+Yeah, that's true. But, of course, most watch it for the thrill. For example, there's a scene in the movie where a woman named Chrissie Watkins goes skinny dipping in the ocean. While she's in the water, she's suddenly pulled under! It's unexpected and thrilling, one of the reasons why I enjoy this movie.
+Honestly, don't know क्या और कहना... यह बहुत लंबा चल रहा है और वास्तव में धंसका है. मैं पहुंच का वापसी करने जा रहा हूँ. उम्मीद है कि आप बातचीत को रोक सकते हैं और फ
+Okay, let's get this done. नicely chatting with you either way! :-)
+iska matlab kya hai?
+the movie is about a young child named Kevin who was abandoned by his family when they went for their Christmas vacation, उसके पिता मother took the whole family for a Christmas vacation but left him alone
+did they abandon him on purpose? वे उसे उचित रूप से遗失的代码未完成，正确格式应为：  Hindi-English codemixed: वे उसे उचित रूप से did they abandon him on purpose?
+no they had lost track of him since they had multiple families' over for Christmas
+did they realize that वे उसे खो कर आपत्ति में नहीं पहुंचे और वापस आए?
+Kevin's mother realizes that he is lost once they arrive at their destination and she tries to get on a flight back home but there are none available so she drives back with strangers
+was he left at home or while they were traveling? या वे यात्रा करते हुए थे?
+emeanwhile, he was left at home
+how old is केविन? Kevin?
+Kevin is a young child, no exact age is given, estimates are he is around 10, वह लगभग 10 साल का है।
+oh, ok. वह कितना स्वतंत्र है खुद की ओर की बचाव करने के लिए?
+Kevin is left home because a power outage caused the family to oversleep and be late for their flight so in the confusion they misplaced Kevin as he was sent to the attic for misbehaving the night before - क्विन को घर छोड़ा गया क्योंकि बिजली की रुकावट उन्हें दूसरे से झुप गए और उनका वायरल ट्रिप के लिए देर हुई
+iska matlab hai kya? wo apne ap ko pareshan nahi kar sakte? kya wo khyaal hai?
+he enjoys being alone but he is met with two burglars whom he has to try and stop
+iska matlab hai ki wo nahi afraid hai balki excited hai
+how does he stop the burglars? वह कैसे चोरों को रोकता है?
+is it a drama or more of a comedy? या यह एक ड्रामा है या फिर एक मोर्चा गिरम्या की और बहुत?
+the movie is a good mix of both but यह मovi[e i[s m[ix o[f b[o[h dramas [nd a few h[lls [nce i[n a w[hil[e
+What is the name of the movie? उस फिल्म का नाम क्या है?
+The movie is named Home Alone, which is a name, you know?
+Ok. केविन के पास कोई भाई या बहन हैं?
+he has a brother named Buzz who, Kevin is not a fan of since he was sent to the third floor after an altercation with Buzz the night before they left for Paris, क्योंकि रात बजे पेरिस की यात्रा से पहले उनके साथ हुए एक दौरान वह तृतीय मंजिल पर भेजा गया था
+does buzz feel bad that kevin was left behind? कीवन को छोड़कर ब्यूज क्या खुश लगता है?
+no he doesn't care
+does केविन्स मोम उसे बुलाने में बुर्गलारों से पहले कैसे पहुंचती है?
+no Kevin has to fend off the burgers himself he places booby traps all around the house which turn out to be very effective
+do the burglars realize they are being fooled by a kid जो ही अकेले घर में है?
+do they give up or keep trying to rob the house? 或者他们放弃还是继续尝试抢劫那所房子？
+the robbers came on christmas eve and were detained by police after going through kelvin's house and getting hit by all his traps they realize he is alone but there already in the house and are commited but ultimately केल्विन के ट्रैपों से ही गिरकर उन्हें बुद्धि में पहुंच गईं कि वे अकेले हैं और घर में ही थे लेकिन इससे भी उन
+do they ever see Kevin kya jab wo uska ghar pe hain?
+yeah sure
+do the police ever figure out that केविन is home alone?
+iska koi baat nahi kiya gaya
+okay, thank you.
+hello!
+What is the movie about? वह मूवी क्या बात कर रही है?
+Sorry, I need to add a Hindi word or phrase here. The sentence would be:  Hindi English: एक सेकंड की बात, I have to read the document.
+Okay :d
+The movie is a musical, has an 89% Rotten Tomatoes rating, and stars Idina Menzel, who was made famous for the musical Wicked.
+do you like musicals? आप मusiकलz पसंद करते हैं?
+iska pta chahiye ho取决于主题
+iska topic kya hai?
+iska ghar unicef ka hai, based on hans christian andersen's "the snow queen." the main characters have to find a way to release the world from the icy grip of winter.
+它's animated.
+iska matlab kuch frozen ki tarah ho saktा hai
+is nahi it?
+CastException: It is! You've heard of it, then? It sounds to me like it's worth seeing.
+ki mujhe actually
+you haven't seen it? आपने यह नहीं देखा?
+iska mera pyaar tha. I have. I loved it.
+Same thing, right?
+iska favorite part kya tha?
+Hmm... मैंने तुम्हें इसे देखने कोPersuadeKaranaThehain. डाक्टरमेंलिखा हुआकुछभीबातनहींहै।
+let me tell you about it. यह कुछ महत्वपूर्ण स्केनों को उठार रहा है।
+oh, okay, मैं सभी श्रवण के रूप में तैयार हूँ
+Honestly :)
+In the beginning, हम पाते हैं कि ट्रिनेसस इल्सा मagical powers है, although she accidentally hurts her sister with them.
+oh no, वह बुरा है
+the king and queen take the younger sister to be healed, और उस शारीरिक स्वास्थ्यकर्ता ने भी उसकी यादें बदल दीं कि वह अपनी बड़ी बहन के मौतल्य क्षमताओं को न याद रखे।
+iska baad hai ye bahut acchi shuruat Hindi English: iska baad hai ye bahut acchi shuruat, this is a good beginning
+elsa eventually becomes queen, लेकिन उसे खوف से भरा हुआ है कि लोग उनकी शक्तियों के बारे में जान जाएँ और उससे ध्वस्त हो जाएँ। वे एक टैसल पार्टी आ
+oh no 🙈:
+the duke, the guy Anna fell for, brands her a monster. Elsa runs away, but the kingdom is left in an eternal winter, due to her magic. ड्यूक, जिसको एनना पसंद करती थी, उसे एक विनाशकर्ता के रूप में चिह्नित कर देता है। एल्सा गुजर जाती है, लेकिन राज्�
+iska mera pyaar hai lekin yeh nahimouseleave blank line for the next instruction
+sorry Elsa
+安娜去找艾尔莎，途中遇到了一些新朋友。当她们找到并质问艾尔莎时，她不小心再次伤到了安娜。
+iska baat nahi hai good :(` lobbyist
+one of her new friends takes her back to the same being who healed her before. उसने कहा कि सत्य की प्रेम की एक वाक्यवाही ही अब उसे बचाने का एकमात्र रास्ता है। i won't spoil the ending.
+hello world
+iska mera dhanyavaad hoy, you today?
+Hey buddy
+Hey, kaise hain aap?
+Hey, kaise hain aap?
+Hey, kaise hain aap?
+Hey, kaise hain aap?
+Hey, kaise hain aap?
+Hey, kaise hain aap?
+iska matlab hai I am good. Thank you.
+Hey buddy
+iska gham galat movie hai jo main aapko bolna chahta hu aur uski nām toy story hai
+it was made in 1995 and was one of the first full length computer animated films, यह 1995 में बनाया गया था और पहले कुछ पूर्ण लंबाई के कंप्यूटर एनिमेटेड फिल्मों में से एक था।
+the voice actors in the movies are very famous stars like Tom Hanks, Tim Allen, and Don Rickles.
+iska matlab hai kya zootopia aap dekha hain?
+Yes, I have. The movie was hilarious! मेरा फावड़ा था! Who was your favorite character?
+CastException: The input sentence is already in English and does not require translation to Hindi-English codemixing. However, if you want a Hindi-English codemixed sentence, here it is:  मैं चरित्र के नामों से बहुत अच्छा नहीं हूँ, लेकिन जैक्सन बेटेमन ने फोक्स नामक चरित्र का निर्माण किया था।
+द निक वाइल्ड, Nick Wilde
+who was yours? Hindi English: कौन तुम्हारा था?
+oh okay, मेरा फाव्योरिट कारेक्टर जूडी होप्स था। मेरा फाव्योरिट स्केन फिल्म का था जब उसे पहले कि उसे पार्किंग डिवीजन की पुलिस के रूप में नियुक्त कर दिया गया था।
+iska matlab hai ki meri bhi acchi nahi milegi yadi woh koi mizag ka samasya ho, aur main kuchh nahi kar sakta ab wo ko dhyan dena.
+The TV was on repeat at her house so I actually watched it there because her 2-year-old had it on repeat
+oh, how funny. कि आप विश्वकोश की छानबीन सही है तो सोचते हैं?
+i do. 8/10 लगता है कि ठीक है, लेकिन rotten tomatoes की समीक्षा उचित लगती है, यह बहुत आश्चर्यजनक है
+i agree, rotten tomatoes रोटन टमाटर्स usually has horrible ratings सामान्यतः खराब रेटिंग होती है so it is a bit surprising इसलिए यह थोड़ा आश्चर्यजनक है. i like the main theme मुझे प्राथमिक विषय पसंद है that people can't be judged based on their color कि लोगों को रंग पर ज्ञ
+what holiday was this released around? यह किस उ potrà में जारी किया गया था?
+do you think judy कैसे निक्की को रिकॉर्ड करना था, was that an ethical decision?
+i don't recall the holiday. मैं सोचता हूँ कि यह न्यायिक था क्योंकि वह खोजा जाने वाला शपथी था, तो वह बस अपना काम कर रही थी।
+iska baadher ending ne unki recording ko padhauta thaa kyunki woh pata chuka thi ki nick ka pas kaafi dhyan se damaan se buliye hua hai jo dono par bharosa badhaaya tha.
+The boss requested her resignation so quickly, which I also thought was super unfair; she was still new to the force.
+i agree with that, it was unfair. फिर भी, उसने पहला दिन निक्क के द्वारा ट्रिक किया गया था, और सच्चाई को नहीं सोचते हैं कि वह स्थिति के लिए सैद्धांतिक रूप से सैद्धांतिक रूप से योग्य थी।
+iska matlab hai ki woh ek beet se naiive thi, lekin woh bhi rookie ke liye单独生成的翻译部分： iska matlab hai ki woh ek beet se naiive thi, lekin woh bhi rookie ke liye shouldn't have been out alone.
+i loved bellwether's character, i know she's a bad guy, but Jenny Slate does such a good job
+Honestly, I've got to agree with you there. Don't see her as much of a bad guy, since she offered Nick and Judy access to the security cameras.
+In the end when Judy asked Nick to join the Zootopia police department, तो आपका मानना क्या था कि वहाँ उसकी भागीदारी की एक अच्छी कल्पना थी?
+Probably not, just because he ended up liking her doesn't mean he had completely turned himself around, यानी केवल उसे उससे पसंद आने से मत लगातार अपना दौरा करने का मतलब नहीं है
+yeah, the movie didn't show Nick developing enough for him to be trusted with that kind of authority. plus, I'm guessing his criminal background wouldn't go well.
+iska matlab hai ki jab bogo ne judy ko chodne ka demand kia aur nick unki support laga, vo madhur thaa
+i agree, वह तамिल में कुछ विकास दिखाया, प्रेम के ढंग से।
+did you think that the use of drugs in the movie was a bit too much? (as in the creation of drugs, I should say)/
+iska matlab hai ki ye bachchon ko haqeeqi kaunsa shharmadgar tarah se zarurat nahi thii. probably too complicated of a plot line to really do any harm to kids.
+they could get the jist of it, मिला बेल्लेथर ने वॉल्फ्स को खराब चीजें करने लिए प्रेरित किया, लेकिन उससे बाहर, वे संयोगशाली दवाओं के रूप में हमारी विचारों के साथ इसका संबंध शायद न
+iska matlab kya jaan doo, I know what you mean.
+my young cousin asked me what they were and why he was making them, what they do to people, etc., so it might not influence most children but definitely some.
+hello, कौन सा मोवी हम बात कर rahe hain?
+The wolf of Wall Street, वॉल स्ट्रीट का वॉलफ़
+Sorry, I'll provide the Hindi-English codemixed sentence as requested:  मैं इसके साथ वाकई परिचित नहीं हूँ?
+who are the actors in the movie? उस फिल्म में कौन से अभिनेता हैं?
+Mujhe dekha tha, it was very interesting.
+.LinkedList
+iska bhi producer wala person wo hai.
+did he win any awards for it? Hindi English: क्या वह इसे किसी सम्मान में जीता था?
+It does not say on the document, actually I personally do not know.
+is there any saala maarketya kaam bhi hota hai?
+yeah sure
+he must be a young stockbroker in the movie? उसे मovi में एक युवा स्टॉकबर्कर को माना जाना चाहिए?
+yeah sure
+iska basis ek shuddha katha aur character thi, but this was also based on the true story and character.
+what was the character's name?
+wait, द पेपर पर लetters बहुत कम हैं।
+Jordan belffort, a man whose life you won't believe
+QTimer I think I remember seeing the trailer and I think Michael Douglas is also in the movie
+wasn't it directed by Oliver Stone?
+no he wasn't
+no, skin
+Is it suspenseful? May aam consider watching it
+would you recommend it? आप इसे सुझाव देंगे?
+iska baad make sure kids are not around.
+if you are religious, you wouldn't want to watch it
+Okay thanks for the info��이스북으로 공유하기
+no I'm not religious so I guess I'm okay
+does it say how long the movie is? मेरे स्क्रीन पर इसका कोई भी जानकारी मौजूद नहीं है
+iska koi baat nahi kiya
+It says in the Turkhit that we will both have the paragraph available to read and I don't so....whatever I guess
+Is there anything else तुम्हें कुछ और बताने का कोई मौका है?
+iska matlab hai ki ye bahut difficult hoon, lekin ab main aapko explain karna chtha hu, so even though I watched the movie, I could only influence you based on the document.
+can you type some of the information in the document? आप कुछ जानकारी डाक्टमेंट में टाइप कर सकते हैं?
+Jordan was a stockbroker for Rotschild.
+.handleErrorCustomer()
+he pushed penny stocks which he knew weren't good
+iska matlab hai ok thanks, sounds interesting
+nice chatting, नाचित बहुत मजा लगा
+thanks का अर्थ भाषा में लिखने पर: thanks
+hello!
+What is the movie about? वह मूवी क्या बात कर रही है?
+Sorry, I need to add a Hindi word or phrase here. The sentence would be:  Hindi English: एक सेकंड की बात, I have to read the document.
+Okay :d
+The movie is a musical, has an 89% Rotten Tomatoes rating, and stars Idina Menzel; she was made famous for the musical Wicked.
+do you like musicals? आप मusiकलz पसंद करते हैं?
+iska pta chahiye ho取决于主题
+iska topic kya hai?
+iska ghar unicef ka hai, based on hans christian andersen's "the snow queen." the main characters have to find a way to release the world from the icy grip of winter.
+它's animated.
+iska matlab kuch frozen ki tarah ho saktा hai
+is nahi it?
+CastException: It is! You've heard of it, then? It sounds to me like it's worth seeing.
+ki mujhe didi indeed
+you haven't seen it? आपने यह नहीं देखा?
+iska mera pyaar tha. I have. I loved it.
+Same thing, right?
+iska favorite part kya tha?
+Hmm... मैंने तुम्हें इसे देखने कोPersuadeKaranaThehain. डाक्टरमेंलिखा हुआकुछभीबातनहींहै।
+let me tell you about it. यह कुछ महत्वपूर्ण स्केनों को उठार रहा है।
+oh, okay, मैं सभी श्रवण हूँ
+Honestly :)
+In the beginning, we find that princess Elsa has magical powers. शुरूआत में, हम पाते हैं कि श्रीनिवासा इल्सा मagical powers वाली है। she accidentally hurts her sister with them, though. उसने उनका उपयोग करके अपनी बहन को ग़लत तरीके से घायल कर दिया, फिर भी।
+oh no, वह बुरा है
+the king and queen take the younger sister to be healed, और उस शारीरिक स्वास्थ्यकर्ता ने भी उसकी यादें बदल दीं कि वह अपनी बड़ी बहन के मौतल्य क्षमताओं को न याद रखे।
+iska baad hai ye bahut acchi shuruat Hindi English: iska baad hai ye bahut acchi shuruat, this is a good beginning
+elsa eventually becomes queen, लेकिन उसे खوف से भरा हुआ है कि लोग उनकी शक्तियों के बारे में जान जाएँ और उससे ध्वस्त हो जाएँ। वे एक टैसल पार्टी आ
+oh no 🙈:
+the duke, the guy Anna fell for, brands her a monster. Elsa runs away, but the kingdom is left in an eternal winter, due to her magic. ड्यूक, जिसको एनना पसंद की, उसे मonster कहता है. एल्सा चल गई, लेकिन राज्य उनके मृदंजय शक्�
+iska mera pyaar hai lekin yeh nahimouseleave blank line for the next sentence as per instruction
+sorry Elsa
+安娜去找艾尔莎，途中遇到了一些新朋友。当她们找到并质问艾尔莎时，她不小心再次伤到了安娜。
+iska baat nahi hai good :(` lobbyist
+one of her new friends takes her back to the same being who healed her before. उसने कहा कि सत्य की प्रेम की एक वाक्यवाही ही अब उसे बचाने का एकमात्र रास्ता है। i won't spoil the ending.
+this film has a great 🍅 score on rotten tomatoes
+what did you think of the cast? आपने कितना कैसे संगीतकारों को देखा?
+those scores are often inflated by the studios themselves. मैं रिट (RT) को हर बार नहीं बेलीबल मानता हूँ
+aisy hi thi cast bhi acchi diiinki.
+do you watch a lot of musicals? तुम कई मूजिकल्स देखते हो?
+do you typically like musicals? तुम्हें आमतौर पर मस्तिष्क पसंद होता?
+i watch some, but मेरा बहुत चयनीय स्तर है उनमें से कुछ
+not really, मैं उन्हें कभी-कभी देखता हूँ.
+iska pata chala na kya hua jab unhein dialogue suna haiisko pata chala na kya hua jab unhein dialogue suna hai but i don't like when they sing the dialogueisko pata chala na kya hua jab unhein dialogue suna hai lekin main wo nahi dekhna chahता हुं जब वे डायलॉग गाते हैं
+Same thing, right?
+iska baad dramas?
+Basically, I'm a movie buff in general
+What was your favorite scene? I liked the one while they were doing a gig at a restaurant.
+i heard good things about la la land, but haven't seen it in real life yet
+iska maan kya tha? how was the meaning?
+Hindi-English codemixed: सप्पी और शोट्यून-लाइक?
+He was playing in a 1980's pop cover band.. वह 1980 के दशक की पोप कवर बैंड में खेल रहा था..
+not bad though, सचमुच नहीं मार्गदर्शक से कहा जा सकता
+sounds like music & these lyrics
+ratings ka opinion kya aapko mila?
+seemed inflated to me, but I still need to see it
+iska matlab Emma Stone ne to ek fantastic job kya hai right
+The Hindi-English codemixed sentence: जैसे जज पियानिस्ट मुझे उतना ही रोमांटिक नहीं करता, jazz pianist doesn't get me excited
+iske baad meri jaan ki taqdeer kaafi zyada thik ho gai aur woh bhi ek mazaak ke liye kaha ki jo hua vo sab aapki taiyari se pehle hi hua tha
+yeah, one critic said that Mia's character was a bit dull and Sebastian is a jazz snob
+iska bhi mera bhi
+IMDb ratings usually aren't that high, यानी कि वे बहुत ऊपरी नहीं होते।
+iska matlab kya pata, maine yeh ek hi ignore kara tha
+maybe on a date night | मेरी बहुत सी नाटकीय रातें हैं |
+iska mujhe koi baat nahi suni thi director Damien Chazelle ko
+Neither have I, but with scores like that, I'll have to check out some other films
+i really liek ryan gosling का भूमिका भी अच्छा समझता हूँ
+Sorry, I will generate a Hindi-English codemixed sentence as requested:  I didn't like the scene where Mia left him at the end though, किंतु वह दुखद था
+薨 Lover Alert!!!!
+iska voh importance jo hai, usko dekhen worth watching
+What is the movie? यह कैसा मोवी है?
+hello. Have you seen Toy Story?
+no मैं नहीं किसके बारे में?
+Tom Hanks बहुत मजेदार थे, pretty funny.
+iska matlab ek buddy film hai
+Tom Hanks is a great actor, टॉम हंक्स एक बहुत अच्छा निर्माता है.
+iska ek comedy animation adventure
+Mohan is awesome, hanks is awesome
+What is the movie about? वह मOVie क्या है?
+iska peeche mostly in a kids bedroom.
+the types are animated when no one is around, जब कोई नहीं आसपास है
+दolls
+Ok, बच्चों की कमरे में गिरावट लाने वाले खिलौने, यह सुनने में दिलचस्प लगता है.
+Mere pas kaafi dhoondhay thi kabhi, lekin filmbaare hi nikaal jata hai
+What else should I know about the movie, क्या और साबित हो सकता है कि मैंने इस फिल्म के बारे में?
+Milo plays the toy cowboy
+hq is the kids' farvorete
+iska naam suna tha kyonki wo yeh kar raha tha jo woh karna jata hai
+dholi Woody
+He has a girlfriend, cowgirl, not sure what her name is
+How many toys does the kid have? कितने खेलों का बच्चा वह है?
+lots of other toys interact and keep the story interesting, बहुत सारे अन्य खिलौने इंटरैक्ट करते हैं और कहानी को आनंदपूर्ण रखते हैं
+storyisko
+i seem to recall some 6 या 8 toys
+What are some other types of toys like action figures and dolls?
+pretty much किसी बच्चे की फटकरी में पाया जाने वाला चीजें
+a Mr. potato head is Don Rickles
+jim varney is a slinky dog - जिम वरनी एक स्लिंकी डॉग है
+उल्लेख शॉन एक खिलौवा टी-रेक्स है
+wallace\ He is a wallace\
+Tim Allen है ब्यूज लाइंटीयर, एक स्पेसमैन
+you want me to keep looking? आप मुझे अगर देखने को जारी रखने के लिए चाहते हैं?
+yeah sure
+There is a piggy bank, मेरी किडनी स्वस्थ है
+a bo peep a girl who watches sheep
+green army man सिफारि�sh नाना
+oh I found woddy's gf, she is called Sally
+is there a toy horse? एक खिलौना क्या है?
+gunakan has a horse
+not sure क्या है फिर से
+hq sounds like an interesting movie
+the fun thing I found in the film was all the personal interactions between the toys which were super cute and heartwarming like a real family interaction
+like real people, just stupid ones, कुछ महत्वपूर्ण समस्या को हल करने की कोशिश कर रहे।
+Funny actors would make it good, फंटी अभिनेत्री इसे अच्छा बनाएंगी
+iska result ya comedians made the film good
+how long is the film? फिल्म कितने मिनट में चलती है?
+大概90分钟
+iska matlab kya hai? hi, tell me a bit about the movie please?
+hello, the movie is called वॉल स्ट्रीट का लोफ्ट, but they say it's actually called the wolf of wall street
+iska naam suna tha kyunki
+未翻译的我haven't
+is it good? यह कैसा है?
+The movie is an American black comedy based of a memoir of the same name, which is really funny but also quite dark, like when they say "it's not the fall that kills you, it's the hit on the head" but in real life, it's both!
+iska prakar Befort ka naya York city mein stockbroker ke perspectiv ko suna hai
+oh ok. कैसे अपनी स्टॉकबोकर की अनुभव की बात करता है?
+broker की भूमिका खेलने वाला
+sorry, actually
+np, did he perform well?
+the lead is played by Leonardo Dicaprio, लीनोर्डो डिकाप्रियो ने नायक की भूमिका निभाया
+The movie is good, मoviː niːdər
+his firm Stratton Oakmont engaged in rampant corruption and fraud, उस कंपनी ने रांची और फ्रौड में व्यापक शामिलता होती थी
+Mujhe wo pasand hai. Is he a good guy or bad?
+iska result बेलफोर्ट का पतन (it led to Belfort's fall)
+iske liye woh badda bhai se bhari jaldi pahunchana laga, but he seems like the bad guy since he engaged in fraud
+yes, true. यह काफी क्रियाशील है?
+iska matlab ye ek kahaani hai jo ki black comedy nahi action hai
+under Hanna, Belfort engage sīcānd, fraud, and drugs
+oh right. gotcha. ठीक है, मुस्कुराहट का मोटा मतलब।
+Hanna is a fellow stockbroker for Rothschild, like I said.
+Sounds interesting. मैंने सुना है कि वह जीवन के वास्तविक तत्वों को धारण करता है।
+Yep, Jordan Belfort later starts a company with his buddy Donnie Azoff
+well, मuje pta nahi hai कि उसने कंपनी से कितने ट्रिक्स सीखे
+The company scams people, उस कंपनी ने लोगों से धोखा दिया
+will he try not to scam people in his new company?
+nahi, कंपनी का आधार लोगों को ढोंकने में है
+iska matlab hai ki, even when he starts his own, huh?
+Yep. Belfort bhi apne wife ko dekhi usko prostitute se jaane aur drags ka istemal karna pe lose kiya.
+iska matlab nahi ki maafi nahi milti hi toh woh kya galat kardi thi lol
+yeahnah
+उसके दो साल बाद, जॉर्डन बेलफोर्ट FBI द्वारा पकड़ा जाता है, two years later jordan belfort is arrested by the fbi
+did he get convicted? वह कोई न्यायिक निर्णय में लिखा गया था?
+however, he is given leniency — उसे अपने सहकर्मियों के खिलाफ जाहिरात के लिए मूल्यांकन की मुफ्त दी जाती है —
+hq sounds like a good movie. क्या हम अब समाप्त कर सकते हैं?
+yeah. thanks for chatting
+thanks, मैं इसे देखूंगा. सounded good
+hello!
+did you like the movie Despicable Me?
+iska realiazh naa ki ye movie 2010 mein aa chuki hai, yeh toh peeche se suni jaa rahi hai.

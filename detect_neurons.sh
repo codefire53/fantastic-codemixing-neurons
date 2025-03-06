@@ -1,0 +1,25 @@
+#!/bin/bash
+
+#SBATCH --job-name=attn-neurons-codemixed-detection # Job name
+#SBATCH --error=./logs/%j%x.err # error file
+#SBATCH --output=./logs/%j%x.out # output log file
+#SBATCH --time=24:00:00 # 10 hours of wall time
+#SBATCH --nodes=1  # 1 GPU node
+#SBATCH --mem=16000 # 16 GB of RAM
+#SBATCH --nodelist=ws-l4-002
+
+echo "Detecting neurons"
+python detect_neurons.py --neuron_file spanglisgh_natural_codemixed_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_cs_sentences.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+python detect_neurons.py --neuron_file spanglish_synth_0.25_codemixed_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.25.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+python detect_neurons.py --neuron_file spanglish_synth_0.5_codemixed_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.5.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+python detect_neurons.py --neuron_file spanglish_synth_0.75_codemixed_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.75.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+python detect_neurons.py --neuron_file spanglish_en_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_en_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+python detect_neurons.py --neuron_file spanglish_es_sensitive_neurons.pkl --main_dataset_file datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type mlp
+echo "Detecting attention neurons"
+python detect_neurons.py --neuron_file spanglisgh_natural_codemixed_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_cs_sentences.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+python detect_neurons.py --neuron_file spanglish_synth_0.25_codemixed_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.25.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+python detect_neurons.py --neuron_file spanglish_synth_0.5_codemixed_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.5.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+python detect_neurons.py --neuron_file spanglish_synth_0.75_codemixed_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_synth_cmix_proba_0.75.txt --contrasting_dataset_files datasets/spanglish/train_en_sentences.txt datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+python detect_neurons.py --neuron_file spanglish_en_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_en_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+python detect_neurons.py --neuron_file spanglish_es_sensitive_neurons_attention.pkl --main_dataset_file datasets/spanglish/train_es_sentences.txt --model_names CohereForAI/aya-expanse-8b Qwen/Qwen2.5-7B bigscience/bloom-7b1 meta-llama/Llama-3.2-3B --batch_size 4 --module_type attention
+echo "Finished"

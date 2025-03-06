@@ -1,0 +1,9 @@
+Translate an English sentence into a Hindi-English codemixed sentence.<sep>
+
+Please write it using roman or latin script<sep>
+
+English: i did not realize this movie came out in 2010, that seemed so long ago.<sep>
+
+Hindi English:  Main 2010  se no no no no hai, isse 2010  theek hai, isse 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010 <sep>
+
+Main 2010  se no no no no hai, isse 2010  theek hai, isse 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010  theek hai, isme 2010

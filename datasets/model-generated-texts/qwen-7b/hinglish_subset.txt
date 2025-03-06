@@ -1,0 +1,51 @@
+text|switching_points|unique_indices
+There is heavy traffic kisi men hai on the highway.| traffic, hai|0,0
+The road is so congested, it feels like humara city ka traffic hai jaise pyar mein hain!| like, humara, city, ka, traffic|0,0,0,0,0
+Mein familie ist like a tree, jaise ki har ek branch represent karta hai kitni bhi different member.| ist,<comma>, ek, represent, bhi|0,0,0,0,0
+The jam is so bad today, I wish there was dhogi ghat for cars!| was, ghat|0,0
+I love mujhe my siblings so much!| love, my|0,0
+The sky is clear today, lekin it feels chilly outside|<comma>, lekin|0,0
+There's heavy traffic jam on the road, kisi bhi chetak mein paani nahi aa sakta.|<comma>|0
+Aapka family bahut accha hai!|Aapka, family|0,0
+The traffic is really bad today, khaashee ke dwaar par gaadiyon ki zindagi chal rahi hain.|<comma>|0
+The temperature is quite chilly today, aur din ki doosri baat hi bahut mehfil se cold hai.|<comma>, se, cold|0,0,0
+The heavy traffic is making me late for the meeting, yah der karaar hai.|<comma>|0
+My family is very close and we all love each other. Hum log ek tarah se achhe hain aur hamare heart mein koi distance nahi hai.|., hamare, heart, koi, distance|0,0,0,0,0
+Today's temperature is quite warm, lagbhag 28 degrees Celsius.|<comma>, 28|0,0
+The roads are jam-packed today, maari baar kisi ko dikkat nahi aaegi to commute.|<comma>, aaegi|0,0
+It's going to rain today, according to mein saalaa.| to|0
+I love eating biryani, lakin the street vendors' version is just not as good as my mom's home-cooked meal.|<comma>, lakin|0,0
+The heavy traffic is making me late for work; Yeh karoobar samay dila hai.|;|0
+My mom always says "Māṁ merī khūn ka srōta hai", which means she is the source of my blood.| says,<comma>|0,0
+My family is like a tree, mein pippal, strong and rooted deeply.|<comma>,<comma>|0,1
+The traffic is really bad today, kya nahi pata if it will improve soon.|<comma>, pata|0,0
+My sister-in-law cooks amazing dishes - Chauthi beti-in law ne bahut achhe khana banaya hain.| beti-in, law|0,0
+Mera jaisa family ek preeti aur samajh ke sath khudai rangwali phool dooba hai.| jaisa, family|0,0
+The temperature is quite pleasant today, koi baat nahi, but there might be some rain later, yeh samajh mein aa raha hai ki hum umbrella le sakte hain.|<comma>,<comma>,<comma>, hum, umbrella|0,1,2,0,0
+The road is jam-packed with vehicles kisi bhi direction mein nahi chalega.| vehicles, bhi, direction|0,0,0
+The temperature is bhot cool today, perfect for a long walk!| is, bhot|0,0
+The heavy traffic is making me late for work, yahin ka trafik meri kam samay par paartho through the day.|<comma>, paartho|0,0
+I love eating samosas, they're so dilaps!| so|0
+It's going to rain today, Nahi nigahein sunao?|<comma>|0
+The sky is clear but it feels chilly, kya nahi?|<comma>|0
+The heavy traffic is making me feel like I'm stuck in a kisi kaam se nahi chal raha office!| a, raha|0,0
+The sky is clear and bhookha, but it feels baatli outside.| and, feels, baatli|0,0,0
+Ek chalo ke direction mein kuchh traf jam raha hai, mainne notice kiya. Aap yeh optimize kar sakte hain ek alternate route lekar.| ke, direction, kuchh, jam, mainne, notice, yeh, optimize, ek, route|0,0,0,0,0,0,0,0,0,0
+The heavy traffic is making me late, kya nahi kaunsa road konse dukan ke pass chalta hai?|<comma>, kaunsa, road|0,0,0
+Main office pehle metro se jaata hu.|Main, office|0,0
+Khaab baat hai, yeh hawa garm ka masala ki chai ke liye perfect hota hai.| liye, perfect|0,0
+I love eating chole bhature, it's my favorite bhojan!|favorite|0
+I adore trying samosas, they're mein favorite khana!|favorite|0
+I really miss my grandparents ka house when I was kid| grandparents, ka|0,0
+Mein ghar chunrui jaise hain, shor aur dip-roothi|aur|0
+I love eating chaat and samosa, lakin sometime mein biryani ko khana chahiye|<comma>, lakin, sometime|0,0,0
+My father always jokes around with his bhenchod during family gatherings, they make the whole atmosphere so lighthearted!| his, bhenchod|0,0
+The nag is really bad today; I spent half my morning just getting to the office.|The, nag|0,0
+A sunny day today! Saral din hi!|!|0
+It's going to rain tomorrow. Kal baithein jayenge.|.|0
+The traffic is really bad today, there's so much naka and khaak.| much, naka, and|0,0,0
+It's bhot outside today, the temperature is around 40 degrees Celsius! bhooti bhari clouds have also started to gather in the sky.|It's, bhot,!, bhari|0,0,0,0
+I love eating chaat, especially the one with tamarind chutney.| tamarind|0
+The sky is clear aur there's no sign of rain today.| clear, aur|0,0
+The traffic is really bad today, there's kaafi jaada vehicles on the road.| there's, jaada|0,0
+The jam-packed road was like a parking lot during rush hour, ekta dii thi sab ka!|<comma>|0

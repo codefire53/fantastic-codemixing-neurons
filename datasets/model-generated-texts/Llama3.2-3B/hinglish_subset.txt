@@ -1,0 +1,51 @@
+text|switching_points|unique_indices
+Traffic jam hai to main road par chalna nahi ja sakti| jam, to, road|0,0,0
+Traffic theeez very slow down kar dein.| down|0
+My maa hai ek bahut acchi ladki.| My|0
+Trafic jam hua hai kyonki sab log yatra kar rahe the.| jam|0
+Traffic chalu hua hai, main ek ghante ke liye ghar jaana chahu.|Traffic|0
+Here is the murga hua suna hai.| the|0
+Mughlai paratha very tasty hai, I love its crispy pakodi.| tasty,<comma>|0,0
+Kashmiri biryani delicious hain.| delicious|0
+Would it kya baarish ho, theek hai ka phool khilne ke liye?| it|0
+Mere bhai aur maine saamne weekend ke samay khaane ki dukan jaate hain.| saamne|0
+Sun rise ka maza hai, maine socha tha kaha| rise|0
+Traffic jam toekar hai. I am stuck kharidte wale pehle.| jam,., stuck|0,0,0
+Main apne gaon ke street food bahut pasand karta hoon.| ke, food|0,0
+Mere pas hai ek chutney bottle.| chutney|0
+Main apne doston ke saath dinner plan kar.| saath, plan|0,0
+Toh tumhe kaise lagta hai taaki yeh traffic bahut zyada ho gaya hua hai?| yeh, traffic|0,0
+Trafic jam ho raha hai.| jam|0
+Kya main kuch chawal aur mutton bharwan ki koshish kar.| aur, mutton|0,0
+My family hai meri parivar hai.| family|0
+My mother hai mere bhai ki beti.| mother|0
+Here is the tola. I hama jana.| the, ., I|0,0,0
+Khichdi ek din mera favorite dish hai, main uski pesh karunga.| mera, dish|0,0
+Traffic chalo, I am stuck on this road.|Traffic, <comma>|0,0
+I love Mumbai - it is very chhoti today| very|0
+my brother kya hai?| brother|0
+Today ka temperature 38 degree hai.|Today, ka, degree|0,0,0
+Traffic is very congested today, phir woh log bhi kaafi jhugad kar rahe hain.|<comma>|0
+Traffic hai bahut jamakar dekha gaya.|Traffic|0
+Aapka raasta bahut bada hai, kyun ki yah traffic ke liye bahut bhara ho gaya hai.| yah, traffic|0,0
+Today is kaafi sulav lagta hai ki duniya mein taapman 32 degree se kam ho jaye.| is|0
+Traffic jam ho gaya hai, bas kuch time bhi to aage badh sakte hain. | jam, kuch, time|0,0,0
+Aaj ka weather suna tha, kuchh badhiya hai.| ka, weather|0,0
+My pita ji is very nice.|My, ji|0,0
+My maa ki house hai bahut achhi.|My, ki, house|0,0,0
+Mum khana khaaya hai, mera pyaaz aur tomato ki sabzi banaye.| aur, tomato|0,0
+mere parents ka jeevan bhi achha hai.|mere, parents|0,0
+Aloo tikki is yummy.| tikki|0
+Tai sun hai shinin braahitīyā tāriva.|Tai, sun, hai, shinin|0,0,0,0
+Traffic jam on road, bas baad pe jama hai.|<comma>|0
+Mummy acha tandoori chicken bana rahi hai.| tandoori, chicken|0,0
+I'm going to the market, thoda traffic ho gaya hai.|<comma>, thoda, traffic|0,0,0
+Here is the samosa chaat.| the|0
+Traffic ka bahut badi problem hai.|Traffic, badi, problem|0,0,0
+The chhotee mausam badha hua hai.|The|0
+My pita ji always looks after me.|My, ji|0,0
+Family ek bahut hi jatil samasya hai.|Family|0
+Kya tumhe thoda rain chala hai?| thoda, rain|0
+Sun ki baat hai, yahaan bahut acchi hain.|Sun|0
+Main kis baar market jaaunga.| baar, market|0,0
+Traffic jam ek bada problem hai, to logon ko patience hona chahiye.| jam, bada, problem, ko, patience|0,0,0,0,0

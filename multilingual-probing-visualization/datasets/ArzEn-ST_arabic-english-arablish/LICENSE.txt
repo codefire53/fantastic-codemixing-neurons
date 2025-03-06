@@ -1,0 +1,15 @@
+License - please read the following license:
+//////////////////////////////////////////////////////////////////////
+// License for ArzEn-ST Translation Corpus
+//////////////////////////////////////////////////////////////////////
+
+The ArzEn-ST translation files are provided under an Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) License.
+(Link: https://creativecommons.org/licenses/by-sa/4.0/?ref=chooser-v1)
+
+If you use this corpus, please cite the original ArzEn  papers for the transcriptions and translations:
+
+(1) Hamed, Injy, Ngoc Thang Vu, and Slim Abdennadher. "ArzEn: A speech corpus for code-switched Egyptian Arabic-English." In Proceedings of the 12th Language Resources and Evaluation Conference (2020).
+
+(2) Hamed, Injy, Nizar Habash, Slim Abdennadher, and Ngoc Thang Vu. "ArzEn-ST: A Three-way Speech Translation Corpus for Code-Switched Egyptian Arabic - English." In Proceedings of the 7th Arabic Natural Language Processing Workshop (2022).
+
+//////////////////////////////////////////////////////////////////////
